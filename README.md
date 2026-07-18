@@ -813,7 +813,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 ## Automation
 
-A scheduled GitHub Action refreshes this table and the JSON dataset daily. It preserves the existing catalog, discovers additional exact-name matches through GitHub Search, refreshes repository metadata and stars, removes unavailable repositories, and commits only when data changes.
+A scheduled GitHub Action refreshes this table and the JSON dataset daily. It preserves the existing catalog, discovers additional exact-name matches through GitHub Search ordered by stars, refreshes repository metadata and stars, removes unavailable repositories, and commits only when data changes.
 
 ## License
 
