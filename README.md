@@ -819,4 +819,4 @@ Collected on **2026-07-18** using GitHub repository search and deduplicated by f
 
 ## License
 
-Repository metadata originates from GitHub. Review each linked repository own license before reusing its content.
+Repository metadata originates from GitHub. Review the license of each linked repository before reusing its content.
