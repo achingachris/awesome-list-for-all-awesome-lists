@@ -33,12 +33,12 @@ jobs:
 
       - name: Commit changes
         run: |
-          if git diff --quiet -- README.md awesome-repositories.csv; then
+          if git diff --quiet -- README.md awesome-repositories.json; then
             echo "No changes detected."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md awesome-repositories.csv
+          git add README.md awesome-repositories.json
           git commit -m "Update awesome repository directory"
           git push
