@@ -9,7 +9,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **693** named `awesome-list`
 - Last updated: **2026-07-18**
 
-The machine-readable dataset is available in [`awesome-repositories.csv`](./awesome-repositories.csv).
+The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
 ## Repositories
 
@@ -813,7 +813,7 @@ The machine-readable dataset is available in [`awesome-repositories.csv`](./awes
 
 ## Automation
 
-A scheduled GitHub Action refreshes this table and the CSV daily. It preserves the existing catalog, discovers additional exact-name matches through GitHub Search, refreshes repository metadata and stars, removes unavailable repositories, and commits only when data changes.
+A scheduled GitHub Action refreshes this table and the JSON dataset daily. It preserves the existing catalog, discovers additional exact-name matches through GitHub Search, refreshes repository metadata and stars, removes unavailable repositories, and commits only when data changes.
 
 ## License
 
