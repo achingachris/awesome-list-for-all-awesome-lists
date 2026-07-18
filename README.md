@@ -15,8 +15,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 486,311 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,918 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 486,392 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,920 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,513 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,903 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,706 |
@@ -24,8 +24,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,086 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,032 |
-| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 760 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,033 |
+| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 761 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 529 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 439 |
@@ -813,7 +813,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 ## Automation
 
-A scheduled GitHub Action refreshes this table and the JSON dataset daily. It preserves the existing catalog, discovers additional exact-name matches through GitHub Search ordered by stars, refreshes repository metadata and stars, removes unavailable repositories, and commits only when data changes.
+A scheduled GitHub Action refreshes this table and the JSON dataset daily. It preserves the existing catalog, discovers additional exact-name matches through GitHub Search, refreshes repository metadata and stars, removes unavailable repositories, and commits only when data changes.
 
 ## License
 
