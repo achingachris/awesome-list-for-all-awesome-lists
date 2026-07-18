@@ -3,7 +3,6 @@
 
 from __future__ import annotations
 
-import csv
 import json
 import os
 import sys
@@ -21,7 +20,7 @@ EXACT_NAMES = {"awesome", "awesome-list"}
 PER_PAGE = 100
 MAX_PAGES = 10
 ROOT = Path(__file__).resolve().parents[1]
-CSV_PATH = ROOT / "awesome-repositories.csv"
+JSON_PATH = ROOT / "awesome-repositories.json"
 README_PATH = ROOT / "README.md"
 
 
@@ -74,18 +73,20 @@ def normalize(repository: dict) -> dict:
 
 def load_existing() -> dict[str, dict]:
     repositories: dict[str, dict] = {}
-    if not CSV_PATH.exists():
+    if not JSON_PATH.exists():
         return repositories
 
-    with CSV_PATH.open(encoding="utf-8", newline="") as handle:
-        for row in csv.DictReader(handle):
-            name = (row.get("name") or "").lower()
-            full_name = row.get("repository_full_name") or ""
-            if name not in EXACT_NAMES or not full_name:
-                continue
-            row["stars"] = int(row.get("stars") or 0)
-            row["archived"] = str(row.get("archived", "")).lower() == "true"
-            repositories[full_name.lower()] = row
+    with JSON_PATH.open(encoding="utf-8") as handle:
+        rows = json.load(handle)
+
+    for row in rows:
+        name = str(row.get("name") or "").lower()
+        full_name = str(row.get("repository_full_name") or "")
+        if name not in EXACT_NAMES or not full_name:
+            continue
+        row["stars"] = int(row.get("stars") or 0)
+        row["archived"] = bool(row.get("archived", False))
+        repositories[full_name.lower()] = row
     return repositories
 
 
@@ -94,11 +95,7 @@ def discover(repositories: dict[str, dict]) -> None:
         for page in range(1, MAX_PAGES + 1):
             payload = github_get(
                 SEARCH_URL,
-                {
-                    "q": query,
-                    "per_page": PER_PAGE,
-                    "page": page,
-                },
+                {"q": query, "per_page": PER_PAGE, "page": page},
             )
             items = payload.get("items", [])
             if not items:
@@ -133,10 +130,7 @@ def enrich(repositories: dict[str, dict]) -> None:
                 print(f"Warning: could not refresh {key}: {error}", file=sys.stderr)
                 continue
 
-            if not repository:
-                stale.append(key)
-                continue
-            if repository["name"].lower() not in EXACT_NAMES:
+            if not repository or repository["name"].lower() not in EXACT_NAMES:
                 stale.append(key)
                 continue
             repositories[key] = normalize(repository)
@@ -158,22 +152,10 @@ def collect_repositories() -> list[dict]:
     )
 
 
-def write_csv(repositories: list[dict]) -> None:
-    fieldnames = [
-        "repository_full_name",
-        "name",
-        "owner",
-        "url",
-        "stars",
-        "visibility",
-        "archived",
-        "default_branch",
-        "clone_url",
-    ]
-    with CSV_PATH.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(repositories)
+def write_json(repositories: list[dict]) -> None:
+    with JSON_PATH.open("w", encoding="utf-8") as handle:
+        json.dump(repositories, handle, indent=2, ensure_ascii=False)
+        handle.write("\n")
 
 
 def write_readme(repositories: list[dict]) -> None:
@@ -196,7 +178,7 @@ def write_readme(repositories: list[dict]) -> None:
         f"- Last updated: **{date.today().isoformat()}**",
         "",
         "The machine-readable dataset is available in "
-        "[`awesome-repositories.csv`](./awesome-repositories.csv).",
+        "[`awesome-repositories.json`](./awesome-repositories.json).",
         "",
         "## Repositories",
         "",
@@ -217,7 +199,7 @@ def write_readme(repositories: list[dict]) -> None:
             "",
             "## Automation",
             "",
-            "A scheduled GitHub Action refreshes this table and the CSV daily. "
+            "A scheduled GitHub Action refreshes this table and the JSON dataset daily. "
             "It preserves the existing catalog, discovers additional exact-name "
             "matches through GitHub Search, refreshes repository metadata and stars, "
             "removes unavailable repositories, and commits only when data changes.",
@@ -238,7 +220,7 @@ def main() -> int:
         print("No exact-name repositories found; refusing to overwrite existing files.")
         return 1
 
-    write_csv(repositories)
+    write_json(repositories)
     write_readme(repositories)
     print(f"Wrote {len(repositories)} repositories.")
     return 0
