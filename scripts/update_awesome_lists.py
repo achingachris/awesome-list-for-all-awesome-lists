@@ -95,7 +95,7 @@ def discover(repositories: dict[str, dict]) -> None:
         for page in range(1, MAX_PAGES + 1):
             payload = github_get(
                 SEARCH_URL,
-                {"q": query, "per_page": PER_PAGE, "page": page},
+                {"q": query, "sort": "stars", "order": "desc", "per_page": PER_PAGE, "page": page},
             )
             items = payload.get("items", [])
             if not items:
