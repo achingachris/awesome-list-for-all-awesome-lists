@@ -15,7 +15,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 486,523 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 486,677 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,921 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,513 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,905 |
@@ -61,7 +61,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 101 |
 | [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 97 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 95 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 96 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 90 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 89 |
