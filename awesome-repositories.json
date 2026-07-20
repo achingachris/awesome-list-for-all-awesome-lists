@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 486677,
+    "stars": 486823,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 3905,
+    "stars": 3906,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -92,7 +92,7 @@
     "name": "awesome",
     "owner": "alpine-collective",
     "url": "https://github.com/alpine-collective/awesome",
-    "stars": 1086,
+    "stars": 1087,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -1342,6 +1342,17 @@
     "clone_url": "https://github.com/code4everything/awesome-list.git"
   },
   {
+    "repository_full_name": "izaart95-jpg/Awesome-List",
+    "name": "Awesome-List",
+    "owner": "izaart95-jpg",
+    "url": "https://github.com/izaart95-jpg/Awesome-List",
+    "stars": 5,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/izaart95-jpg/Awesome-List.git"
+  },
+  {
     "repository_full_name": "aswathselvam/awesome-list",
     "name": "awesome-list",
     "owner": "aswathselvam",
@@ -1362,17 +1373,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/comdex-official/awesome.git"
-  },
-  {
-    "repository_full_name": "izaart95-jpg/Awesome-List",
-    "name": "Awesome-List",
-    "owner": "izaart95-jpg",
-    "url": "https://github.com/izaart95-jpg/Awesome-List",
-    "stars": 4,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/izaart95-jpg/Awesome-List.git"
   },
   {
     "repository_full_name": "Kevnz/awesome-list",

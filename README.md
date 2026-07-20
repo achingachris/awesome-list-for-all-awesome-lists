@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-07-19**
+- Last updated: **2026-07-20**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,15 +15,15 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 486,677 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 486,823 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,921 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,513 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,905 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,906 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,707 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,695 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,086 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,087 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,034 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 762 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
@@ -137,9 +137,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [axone-protocol/awesome](https://github.com/axone-protocol/awesome) | axone-protocol | 5 |
 | [blogwy/awesome-list](https://github.com/blogwy/awesome-list) | blogwy | 5 |
 | [code4everything/awesome-list](https://github.com/code4everything/awesome-list) | code4everything | 5 |
+| [izaart95-jpg/Awesome-List](https://github.com/izaart95-jpg/Awesome-List) | izaart95-jpg | 5 |
 | [aswathselvam/awesome-list](https://github.com/aswathselvam/awesome-list) | aswathselvam | 4 |
 | [comdex-official/awesome](https://github.com/comdex-official/awesome) | comdex-official | 4 |
-| [izaart95-jpg/Awesome-List](https://github.com/izaart95-jpg/Awesome-List) | izaart95-jpg | 4 |
 | [Kevnz/awesome-list](https://github.com/Kevnz/awesome-list) | Kevnz | 4 |
 | [LearningOS/awesome-list](https://github.com/LearningOS/awesome-list) | LearningOS | 4 |
 | [MIS-GrApH-AI/awesome-list](https://github.com/MIS-GrApH-AI/awesome-list) | MIS-GrApH-AI | 4 |
