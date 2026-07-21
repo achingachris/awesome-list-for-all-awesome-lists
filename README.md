@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-07-20**
+- Last updated: **2026-07-21**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 486,975 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,922 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 487,143 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,921 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,513 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,906 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,908 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,707 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,696 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
@@ -32,7 +32,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 407 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 391 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 376 |
-| [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 341 |
+| [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 342 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 336 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 333 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 314 |
@@ -49,7 +49,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [janl/awesome](https://github.com/janl/awesome) | janl | 175 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 174 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 174 |
-| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 168 |
+| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 169 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 167 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 151 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 143 |
