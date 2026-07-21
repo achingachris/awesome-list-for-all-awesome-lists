@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 487143,
+    "stars": 487339,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 3908,
+    "stars": 3912,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -59,7 +59,7 @@
     "name": "awesome",
     "owner": "chartjs",
     "url": "https://github.com/chartjs/awesome",
-    "stars": 2696,
+    "stars": 2697,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -103,7 +103,7 @@
     "name": "awesome",
     "owner": "YOURLS",
     "url": "https://github.com/YOURLS/awesome",
-    "stars": 1034,
+    "stars": 1033,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -114,7 +114,7 @@
     "name": "awesome",
     "owner": "shenwei356",
     "url": "https://github.com/shenwei356/awesome",
-    "stars": 762,
+    "stars": 763,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -341,6 +341,17 @@
     "clone_url": "https://github.com/TheHive-Project/awesome.git"
   },
   {
+    "repository_full_name": "hdl/awesome",
+    "name": "awesome",
+    "owner": "hdl",
+    "url": "https://github.com/hdl/awesome",
+    "stars": 175,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "develop",
+    "clone_url": "https://github.com/hdl/awesome.git"
+  },
+  {
     "repository_full_name": "janl/awesome",
     "name": "awesome",
     "owner": "janl",
@@ -361,17 +372,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/effector/awesome.git"
-  },
-  {
-    "repository_full_name": "hdl/awesome",
-    "name": "awesome",
-    "owner": "hdl",
-    "url": "https://github.com/hdl/awesome",
-    "stars": 174,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "develop",
-    "clone_url": "https://github.com/hdl/awesome.git"
   },
   {
     "repository_full_name": "Am0rphous/Awesome",
@@ -693,6 +693,17 @@
     "clone_url": "https://github.com/jhealy/awesome.git"
   },
   {
+    "repository_full_name": "pghacking/awesome",
+    "name": "awesome",
+    "owner": "pghacking",
+    "url": "https://github.com/pghacking/awesome",
+    "stars": 58,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/pghacking/awesome.git"
+  },
+  {
     "repository_full_name": "ceramicnetwork/awesome",
     "name": "awesome",
     "owner": "ceramicnetwork",
@@ -702,17 +713,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/ceramicnetwork/awesome.git"
-  },
-  {
-    "repository_full_name": "pghacking/awesome",
-    "name": "awesome",
-    "owner": "pghacking",
-    "url": "https://github.com/pghacking/awesome",
-    "stars": 57,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/pghacking/awesome.git"
   },
   {
     "repository_full_name": "lisniuse/awesome",
