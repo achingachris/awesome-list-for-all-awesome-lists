@@ -15,21 +15,21 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 488,241 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,925 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 488,504 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,927 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,510 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,913 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,914 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,707 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,699 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,091 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,087 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,034 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,088 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,035 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 763 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 529 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 440 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 406 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 405 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 391 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 376 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 342 |
@@ -55,7 +55,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 143 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 143 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 132 |
-| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 120 |
+| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 121 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 101 |
@@ -161,6 +161,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Chronillogical-Potato/awesome-list](https://github.com/Chronillogical-Potato/awesome-list) | Chronillogical-Potato | 1 |
 | [cpereiraweb/awesome-list](https://github.com/cpereiraweb/awesome-list) | cpereiraweb | 1 |
 | [CWSpear/awesome-list](https://github.com/CWSpear/awesome-list) | CWSpear | 1 |
+| [Deadnaut0/awesome-list](https://github.com/Deadnaut0/awesome-list) | Deadnaut0 | 1 |
 | [Divyn/awesome-list](https://github.com/Divyn/awesome-list) | Divyn | 1 |
 | [Ellisande/awesome-list](https://github.com/Ellisande/awesome-list) | Ellisande | 1 |
 | [floriandorau/awesome-list](https://github.com/floriandorau/awesome-list) | floriandorau | 1 |
@@ -321,7 +322,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [davanstrien/awesome-list](https://github.com/davanstrien/awesome-list) | davanstrien | 0 |
 | [DavidKlapsia/awesome-list](https://github.com/DavidKlapsia/awesome-list) | DavidKlapsia | 0 |
 | [dc0820/awesome-list](https://github.com/dc0820/awesome-list) | dc0820 | 0 |
-| [Deadnaut0/awesome-list](https://github.com/Deadnaut0/awesome-list) | Deadnaut0 | 0 |
 | [demoonwu/awesome-list](https://github.com/demoonwu/awesome-list) | demoonwu | 0 |
 | [dennyhaq/awesome-list](https://github.com/dennyhaq/awesome-list) | dennyhaq | 0 |
 | [derdela/awesome-list](https://github.com/derdela/awesome-list) | derdela | 0 |
