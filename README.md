@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 489,109 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 489,262 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,927 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,510 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,916 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,511 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,918 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,699 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
@@ -55,7 +55,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 143 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 143 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 132 |
-| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 122 |
+| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 123 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 101 |
