@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-07-26**
+- Last updated: **2026-07-27**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,7 +15,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 489,262 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 489,441 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,927 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,511 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,918 |
@@ -42,14 +42,14 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 249 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 225 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 211 |
-| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 196 |
+| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 197 |
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 195 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 175 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 175 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 174 |
-| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 169 |
+| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 170 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 167 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 151 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 143 |
