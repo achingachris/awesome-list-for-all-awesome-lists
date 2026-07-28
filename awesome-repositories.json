@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 489772,
+    "stars": 489946,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6928,
+    "stars": 6929,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5511,
+    "stars": 5509,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 3918,
+    "stars": 3920,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -147,7 +147,7 @@
     "name": "awesome",
     "owner": "trendmicro-frontend",
     "url": "https://github.com/trendmicro-frontend/awesome",
-    "stars": 440,
+    "stars": 441,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -488,7 +488,7 @@
     "name": "awesome",
     "owner": "compose-multiplatform",
     "url": "https://github.com/compose-multiplatform/awesome",
-    "stars": 98,
+    "stars": 100,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -605,6 +605,17 @@
     "clone_url": "https://github.com/skyrocknroll/awesome.git"
   },
   {
+    "repository_full_name": "HyperDbg/awesome",
+    "name": "awesome",
+    "owner": "HyperDbg",
+    "url": "https://github.com/HyperDbg/awesome",
+    "stars": 81,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/HyperDbg/awesome.git"
+  },
+  {
     "repository_full_name": "open-data-science/awesome",
     "name": "awesome",
     "owner": "open-data-science",
@@ -636,17 +647,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/beerandcodeteam/awesome-list.git"
-  },
-  {
-    "repository_full_name": "HyperDbg/awesome",
-    "name": "awesome",
-    "owner": "HyperDbg",
-    "url": "https://github.com/HyperDbg/awesome",
-    "stars": 80,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/HyperDbg/awesome.git"
   },
   {
     "repository_full_name": "simonecorsi/awesome",
@@ -2143,17 +2143,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/abirmehmed/awesome-list.git"
-  },
-  {
-    "repository_full_name": "Abraham62377/awesome-list",
-    "name": "awesome-list",
-    "owner": "Abraham62377",
-    "url": "https://github.com/Abraham62377/awesome-list",
-    "stars": 0,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/Abraham62377/awesome-list.git"
   },
   {
     "repository_full_name": "aburumman/awesome-list",
