@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 489946,
+    "stars": 490131,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5509,
+    "stars": 5510,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -70,7 +70,7 @@
     "name": "awesome",
     "owner": "vuetifyjs",
     "url": "https://github.com/vuetifyjs/awesome",
-    "stars": 1746,
+    "stars": 1744,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -268,7 +268,7 @@
     "name": "Awesome",
     "owner": "ScoopInstaller",
     "url": "https://github.com/ScoopInstaller/Awesome",
-    "stars": 249,
+    "stars": 248,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -473,6 +473,17 @@
     "clone_url": "https://github.com/LiveUI/Awesome.git"
   },
   {
+    "repository_full_name": "compose-multiplatform/awesome",
+    "name": "awesome",
+    "owner": "compose-multiplatform",
+    "url": "https://github.com/compose-multiplatform/awesome",
+    "stars": 101,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/compose-multiplatform/awesome.git"
+  },
+  {
     "repository_full_name": "proudcloud/awesome",
     "name": "awesome",
     "owner": "proudcloud",
@@ -482,17 +493,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/proudcloud/awesome.git"
-  },
-  {
-    "repository_full_name": "compose-multiplatform/awesome",
-    "name": "awesome",
-    "owner": "compose-multiplatform",
-    "url": "https://github.com/compose-multiplatform/awesome",
-    "stars": 100,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/compose-multiplatform/awesome.git"
   },
   {
     "repository_full_name": "tendermint/awesome",

@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-07-28**
+- Last updated: **2026-07-29**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,13 +15,13 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 489,946 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 490,131 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,929 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,509 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,510 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,920 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,700 |
-| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
+| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,744 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,033 |
@@ -39,7 +39,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 290 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 261 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 249 |
-| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 249 |
+| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 248 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 225 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 211 |
 | [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 197 |
@@ -58,8 +58,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 123 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
+| [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 101 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 101 |
-| [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 100 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
 | [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 96 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
