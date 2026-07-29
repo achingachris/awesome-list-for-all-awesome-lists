@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 490,131 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 490,308 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,929 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,510 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,920 |
-| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,921 |
+| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,700 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,744 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
@@ -31,7 +31,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 441 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 406 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 391 |
-| [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 376 |
+| [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 375 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 342 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 336 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 333 |
@@ -60,8 +60,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 101 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 101 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 97 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 96 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 90 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 89 |
