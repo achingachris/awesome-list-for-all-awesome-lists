@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-07-29**
+- Last updated: **2026-07-30**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,12 +15,12 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 490,308 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 490,492 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,929 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,510 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,921 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,700 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,701 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,744 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,088 |
@@ -35,7 +35,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 342 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 336 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 333 |
-| [Level/awesome](https://github.com/Level/awesome) | Level | 314 |
+| [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 290 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 261 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 249 |
