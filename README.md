@@ -15,12 +15,12 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 491,077 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,930 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,511 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,926 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 491,206 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,933 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,512 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,927 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,703 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,702 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,744 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,088 |
