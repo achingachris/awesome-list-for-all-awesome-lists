@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **793 repositories total**
 - **102** named `awesome`
 - **691** named `awesome-list`
-- Last updated: **2026-07-31**
+- Last updated: **2026-08-01**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,22 +15,22 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 490,962 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 491,077 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,930 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,510 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,925 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,511 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,926 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,701 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,703 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,744 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,088 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,034 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,033 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 763 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 529 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 441 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 406 |
-| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 392 |
+| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 393 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 375 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 344 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 336 |
@@ -51,14 +51,14 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [effector/awesome](https://github.com/effector/awesome) | effector | 174 |
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 171 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 167 |
-| [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 151 |
+| [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 143 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 143 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 132 |
-| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 123 |
+| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 124 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
-| [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 102 |
+| [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 103 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 101 |
 | [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 97 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
