@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 491,347 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,934 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 491,491 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,935 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,512 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,927 |
-| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
+| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,702 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,744 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
@@ -31,7 +31,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 441 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 406 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 393 |
-| [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 375 |
+| [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 344 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 336 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 334 |
