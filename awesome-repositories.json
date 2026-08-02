@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 491206,
+    "stars": 491347,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6933,
+    "stars": 6934,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -136,7 +136,7 @@
     "name": "awesome-list",
     "owner": "ityouknow",
     "url": "https://github.com/ityouknow/awesome-list",
-    "stars": 529,
+    "stars": 528,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -246,7 +246,7 @@
     "name": "awesome",
     "owner": "firasuke",
     "url": "https://github.com/firasuke/awesome",
-    "stars": 261,
+    "stars": 262,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -341,6 +341,17 @@
     "clone_url": "https://github.com/TheHive-Project/awesome.git"
   },
   {
+    "repository_full_name": "janl/awesome",
+    "name": "awesome",
+    "owner": "janl",
+    "url": "https://github.com/janl/awesome",
+    "stars": 176,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/janl/awesome.git"
+  },
+  {
     "repository_full_name": "hdl/awesome",
     "name": "awesome",
     "owner": "hdl",
@@ -350,17 +361,6 @@
     "archived": false,
     "default_branch": "develop",
     "clone_url": "https://github.com/hdl/awesome.git"
-  },
-  {
-    "repository_full_name": "janl/awesome",
-    "name": "awesome",
-    "owner": "janl",
-    "url": "https://github.com/janl/awesome",
-    "stars": 175,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/janl/awesome.git"
   },
   {
     "repository_full_name": "effector/awesome",
@@ -499,7 +499,7 @@
     "name": "awesome",
     "owner": "ecosyste-ms",
     "url": "https://github.com/ecosyste-ms/awesome",
-    "stars": 97,
+    "stars": 98,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -8072,6 +8072,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/Tubbz-alt/awesome-list.git"
+  },
+  {
+    "repository_full_name": "Uhan30/Awesome-list",
+    "name": "Awesome-list",
+    "owner": "Uhan30",
+    "url": "https://github.com/Uhan30/Awesome-list",
+    "stars": 0,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/Uhan30/Awesome-list.git"
   },
   {
     "repository_full_name": "unoiadeveloper/awesome-list",
