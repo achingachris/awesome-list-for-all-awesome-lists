@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 492,510 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 492,697 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,934 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,513 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,512 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,931 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,705 |
@@ -25,7 +25,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,089 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,035 |
-| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 763 |
+| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 762 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 528 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 441 |
@@ -38,7 +38,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 290 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 262 |
-| [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 249 |
+| [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 250 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 249 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 225 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 211 |
@@ -60,7 +60,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 103 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 101 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 98 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 99 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
