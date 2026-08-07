@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 493,169 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 493,331 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,935 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,513 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,936 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,937 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,705 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,745 |
@@ -42,7 +42,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 249 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 225 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 211 |
-| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 197 |
+| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 198 |
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 195 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
