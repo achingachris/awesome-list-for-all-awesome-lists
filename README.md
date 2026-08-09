@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 493,783 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 493,947 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,936 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,514 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,950 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,515 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,954 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,705 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,745 |
@@ -28,8 +28,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 763 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 528 |
-| [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 441 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 408 |
+| [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 443 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 409 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 393 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 344 |
@@ -147,6 +147,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Chr15t0pher/awesome-list](https://github.com/Chr15t0pher/awesome-list) | Chr15t0pher | 3 |
 | [netveil/Awesome-List](https://github.com/netveil/Awesome-List) | netveil | 3 |
 | [plain-JavaScript/awesome-list](https://github.com/plain-JavaScript/awesome-list) | plain-JavaScript | 3 |
+| [xueyufish/awesome-list](https://github.com/xueyufish/awesome-list) | xueyufish | 3 |
 | [chalettu/awesome-list](https://github.com/chalettu/awesome-list) | chalettu | 2 |
 | [erikgregorywebb/awesome-list](https://github.com/erikgregorywebb/awesome-list) | erikgregorywebb | 2 |
 | [gpproton/awesome-list](https://github.com/gpproton/awesome-list) | gpproton | 2 |
@@ -187,7 +188,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [tehruhn/awesome-list](https://github.com/tehruhn/awesome-list) | tehruhn | 1 |
 | [V33RU/awesome-list](https://github.com/V33RU/awesome-list) | V33RU | 1 |
 | [xtiankisutsa/awesome-list](https://github.com/xtiankisutsa/awesome-list) | xtiankisutsa | 1 |
-| [xueyufish/awesome-list](https://github.com/xueyufish/awesome-list) | xueyufish | 1 |
 | [yeshuibo/awesome-list](https://github.com/yeshuibo/awesome-list) | yeshuibo | 1 |
 | [0060lulu/awesome-list](https://github.com/0060lulu/awesome-list) | 0060lulu | 0 |
 | [007ylj/awesome-list](https://github.com/007ylj/awesome-list) | 007ylj | 0 |
