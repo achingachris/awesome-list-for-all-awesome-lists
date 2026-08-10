@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 494099,
+    "stars": 494248,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 3956,
+    "stars": 3959,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -59,7 +59,7 @@
     "name": "awesome",
     "owner": "chartjs",
     "url": "https://github.com/chartjs/awesome",
-    "stars": 2705,
+    "stars": 2706,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1408,6 +1408,17 @@
     "clone_url": "https://github.com/MIS-GrApH-AI/awesome-list.git"
   },
   {
+    "repository_full_name": "xueyufish/awesome-list",
+    "name": "awesome-list",
+    "owner": "xueyufish",
+    "url": "https://github.com/xueyufish/awesome-list",
+    "stars": 4,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/xueyufish/awesome-list.git"
+  },
+  {
     "repository_full_name": "AngelDevIndie/awesome-list",
     "name": "awesome-list",
     "owner": "AngelDevIndie",
@@ -1450,17 +1461,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/plain-JavaScript/awesome-list.git"
-  },
-  {
-    "repository_full_name": "xueyufish/awesome-list",
-    "name": "awesome-list",
-    "owner": "xueyufish",
-    "url": "https://github.com/xueyufish/awesome-list",
-    "stars": 3,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/xueyufish/awesome-list.git"
   },
   {
     "repository_full_name": "chalettu/awesome-list",

@@ -15,12 +15,12 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 494,099 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 494,248 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,936 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,515 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,956 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,959 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,705 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,706 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,745 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,089 |
@@ -143,11 +143,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Kevnz/awesome-list](https://github.com/Kevnz/awesome-list) | Kevnz | 4 |
 | [LearningOS/awesome-list](https://github.com/LearningOS/awesome-list) | LearningOS | 4 |
 | [MIS-GrApH-AI/awesome-list](https://github.com/MIS-GrApH-AI/awesome-list) | MIS-GrApH-AI | 4 |
+| [xueyufish/awesome-list](https://github.com/xueyufish/awesome-list) | xueyufish | 4 |
 | [AngelDevIndie/awesome-list](https://github.com/AngelDevIndie/awesome-list) | AngelDevIndie | 3 |
 | [Chr15t0pher/awesome-list](https://github.com/Chr15t0pher/awesome-list) | Chr15t0pher | 3 |
 | [netveil/Awesome-List](https://github.com/netveil/Awesome-List) | netveil | 3 |
 | [plain-JavaScript/awesome-list](https://github.com/plain-JavaScript/awesome-list) | plain-JavaScript | 3 |
-| [xueyufish/awesome-list](https://github.com/xueyufish/awesome-list) | xueyufish | 3 |
 | [chalettu/awesome-list](https://github.com/chalettu/awesome-list) | chalettu | 2 |
 | [erikgregorywebb/awesome-list](https://github.com/erikgregorywebb/awesome-list) | erikgregorywebb | 2 |
 | [gpproton/awesome-list](https://github.com/gpproton/awesome-list) | gpproton | 2 |
