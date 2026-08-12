@@ -15,12 +15,12 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 494,688 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,936 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,515 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,970 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 494,873 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,937 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,516 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,973 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,706 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,705 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,745 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,089 |
@@ -82,7 +82,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) | ceramicnetwork | 57 |
 | [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 55 |
 | [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 53 |
-| [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 49 |
+| [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 50 |
 | [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
 | [nodgear/Awesome](https://github.com/nodgear/Awesome) | nodgear | 49 |
 | [evmos/awesome](https://github.com/evmos/awesome) _(archived)_ | evmos | 48 |
