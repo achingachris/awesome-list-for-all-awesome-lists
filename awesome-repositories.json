@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 495079,
+    "stars": 495279,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5516,
+    "stars": 5517,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 3976,
+    "stars": 3980,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -554,7 +554,7 @@
     "name": "awesome",
     "owner": "erbanku",
     "url": "https://github.com/erbanku/awesome",
-    "stars": 88,
+    "stars": 89,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -583,6 +583,17 @@
     "clone_url": "https://github.com/seapy/awesome.git"
   },
   {
+    "repository_full_name": "skyrocknroll/awesome",
+    "name": "awesome",
+    "owner": "skyrocknroll",
+    "url": "https://github.com/skyrocknroll/awesome",
+    "stars": 84,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/skyrocknroll/awesome.git"
+  },
+  {
     "repository_full_name": "eiroca/awesome-list",
     "name": "awesome-list",
     "owner": "eiroca",
@@ -592,17 +603,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/eiroca/awesome-list.git"
-  },
-  {
-    "repository_full_name": "skyrocknroll/awesome",
-    "name": "awesome",
-    "owner": "skyrocknroll",
-    "url": "https://github.com/skyrocknroll/awesome",
-    "stars": 83,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/skyrocknroll/awesome.git"
   },
   {
     "repository_full_name": "HyperDbg/awesome",
