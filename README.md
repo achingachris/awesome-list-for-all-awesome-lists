@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 495,079 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 495,279 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,938 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,516 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,976 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,517 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,980 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,705 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
@@ -65,11 +65,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 89 |
-| [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 88 |
+| [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 89 |
 | [suyear/awesome](https://github.com/suyear/awesome) | suyear | 85 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |
+| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 84 |
 | [eiroca/awesome-list](https://github.com/eiroca/awesome-list) | eiroca | 83 |
-| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 83 |
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 82 |
 | [open-data-science/awesome](https://github.com/open-data-science/awesome) | open-data-science | 81 |
 | [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 81 |
