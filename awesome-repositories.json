@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 495279,
+    "stars": 495474,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6938,
+    "stars": 6939,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5517,
+    "stars": 5518,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -484,6 +484,17 @@
     "clone_url": "https://github.com/compose-multiplatform/awesome.git"
   },
   {
+    "repository_full_name": "ecosyste-ms/awesome",
+    "name": "awesome",
+    "owner": "ecosyste-ms",
+    "url": "https://github.com/ecosyste-ms/awesome",
+    "stars": 101,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/ecosyste-ms/awesome.git"
+  },
+  {
     "repository_full_name": "proudcloud/awesome",
     "name": "awesome",
     "owner": "proudcloud",
@@ -493,17 +504,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/proudcloud/awesome.git"
-  },
-  {
-    "repository_full_name": "ecosyste-ms/awesome",
-    "name": "awesome",
-    "owner": "ecosyste-ms",
-    "url": "https://github.com/ecosyste-ms/awesome",
-    "stars": 100,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/ecosyste-ms/awesome.git"
   },
   {
     "repository_full_name": "tendermint/awesome",

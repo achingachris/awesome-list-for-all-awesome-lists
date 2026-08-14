@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-08-13**
+- Last updated: **2026-08-14**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 495,279 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,938 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,517 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 495,474 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,939 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,518 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,980 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,705 |
@@ -59,8 +59,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 103 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 101 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 101 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 100 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
