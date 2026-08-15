@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-08-14**
+- Last updated: **2026-08-15**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 495,673 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,940 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,519 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 495,839 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,942 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,518 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,984 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,706 |
@@ -33,7 +33,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 393 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 344 |
-| [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 336 |
+| [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 334 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 290 |
@@ -52,7 +52,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 171 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 167 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
-| [lencx/awesome](https://github.com/lencx/awesome) | lencx | 143 |
+| [lencx/awesome](https://github.com/lencx/awesome) | lencx | 144 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 143 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 132 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 124 |
