@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 495,839 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 496,020 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,942 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,518 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,984 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,517 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,985 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,706 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
@@ -32,7 +32,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 409 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 393 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
-| [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 344 |
+| [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 345 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 334 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
@@ -76,7 +76,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [beerandcodeteam/awesome-list](https://github.com/beerandcodeteam/awesome-list) | beerandcodeteam | 80 |
 | [simonecorsi/awesome](https://github.com/simonecorsi/awesome) _(archived)_ | simonecorsi | 78 |
 | [tomatophp/awesome](https://github.com/tomatophp/awesome) | tomatophp | 77 |
-| [jhealy/awesome](https://github.com/jhealy/awesome) | jhealy | 67 |
+| [jhealy/awesome](https://github.com/jhealy/awesome) | jhealy | 68 |
 | [Senzing/awesome](https://github.com/Senzing/awesome) | Senzing | 67 |
 | [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 58 |
 | [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) | ceramicnetwork | 57 |
