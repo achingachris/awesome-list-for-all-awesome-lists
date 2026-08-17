@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 496,648 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,944 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,518 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,985 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 496,854 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,941 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,519 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,986 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,706 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
@@ -70,9 +70,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [suyear/awesome](https://github.com/suyear/awesome) | suyear | 85 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |
 | [eiroca/awesome-list](https://github.com/eiroca/awesome-list) | eiroca | 83 |
-| [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 82 |
+| [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 83 |
+| [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 82 |
 | [open-data-science/awesome](https://github.com/open-data-science/awesome) | open-data-science | 81 |
-| [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 81 |
 | [beerandcodeteam/awesome-list](https://github.com/beerandcodeteam/awesome-list) | beerandcodeteam | 80 |
 | [simonecorsi/awesome](https://github.com/simonecorsi/awesome) _(archived)_ | simonecorsi | 78 |
 | [tomatophp/awesome](https://github.com/tomatophp/awesome) | tomatophp | 77 |
