@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-08-16**
+- Last updated: **2026-08-17**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,29 +15,29 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 496,412 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,943 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 496,648 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,944 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,518 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,985 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,706 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,746 |
-| [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,090 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,089 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,088 |
+| [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,036 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 763 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 529 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 443 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 409 |
-| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 393 |
+| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 345 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 334 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 290 |
-| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 263 |
+| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 264 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 250 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 249 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 225 |
@@ -66,9 +66,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 89 |
 | [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 89 |
+| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 85 |
 | [suyear/awesome](https://github.com/suyear/awesome) | suyear | 85 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |
-| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 84 |
 | [eiroca/awesome-list](https://github.com/eiroca/awesome-list) | eiroca | 83 |
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 82 |
 | [open-data-science/awesome](https://github.com/open-data-science/awesome) | open-data-science | 81 |
