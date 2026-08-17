@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 496412,
+    "stars": 496648,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6943,
+    "stars": 6944,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -77,26 +77,26 @@
     "clone_url": "https://github.com/vuetifyjs/awesome.git"
   },
   {
-    "repository_full_name": "Rocketseat/awesome",
-    "name": "awesome",
-    "owner": "Rocketseat",
-    "url": "https://github.com/Rocketseat/awesome",
-    "stars": 1090,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/Rocketseat/awesome.git"
-  },
-  {
     "repository_full_name": "alpine-collective/awesome",
     "name": "awesome",
     "owner": "alpine-collective",
     "url": "https://github.com/alpine-collective/awesome",
-    "stars": 1089,
+    "stars": 1088,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/alpine-collective/awesome.git"
+  },
+  {
+    "repository_full_name": "Rocketseat/awesome",
+    "name": "awesome",
+    "owner": "Rocketseat",
+    "url": "https://github.com/Rocketseat/awesome",
+    "stars": 1088,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/Rocketseat/awesome.git"
   },
   {
     "repository_full_name": "YOURLS/awesome",
@@ -169,7 +169,7 @@
     "name": "awesome",
     "owner": "better-auth",
     "url": "https://github.com/better-auth/awesome",
-    "stars": 393,
+    "stars": 394,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -246,7 +246,7 @@
     "name": "awesome",
     "owner": "firasuke",
     "url": "https://github.com/firasuke/awesome",
-    "stars": 263,
+    "stars": 264,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -561,6 +561,17 @@
     "clone_url": "https://github.com/erbanku/awesome.git"
   },
   {
+    "repository_full_name": "skyrocknroll/awesome",
+    "name": "awesome",
+    "owner": "skyrocknroll",
+    "url": "https://github.com/skyrocknroll/awesome",
+    "stars": 85,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/skyrocknroll/awesome.git"
+  },
+  {
     "repository_full_name": "suyear/awesome",
     "name": "awesome",
     "owner": "suyear",
@@ -581,17 +592,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/seapy/awesome.git"
-  },
-  {
-    "repository_full_name": "skyrocknroll/awesome",
-    "name": "awesome",
-    "owner": "skyrocknroll",
-    "url": "https://github.com/skyrocknroll/awesome",
-    "stars": 84,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/skyrocknroll/awesome.git"
   },
   {
     "repository_full_name": "eiroca/awesome-list",
