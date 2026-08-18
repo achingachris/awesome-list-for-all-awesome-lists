@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 497055,
+    "stars": 497291,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -81,7 +81,7 @@
     "name": "awesome",
     "owner": "alpine-collective",
     "url": "https://github.com/alpine-collective/awesome",
-    "stars": 1088,
+    "stars": 1089,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -136,7 +136,7 @@
     "name": "awesome-list",
     "owner": "ityouknow",
     "url": "https://github.com/ityouknow/awesome-list",
-    "stars": 529,
+    "stars": 531,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -169,7 +169,7 @@
     "name": "awesome",
     "owner": "better-auth",
     "url": "https://github.com/better-auth/awesome",
-    "stars": 394,
+    "stars": 395,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -341,6 +341,17 @@
     "clone_url": "https://github.com/TheHive-Project/awesome.git"
   },
   {
+    "repository_full_name": "hdl/awesome",
+    "name": "awesome",
+    "owner": "hdl",
+    "url": "https://github.com/hdl/awesome",
+    "stars": 176,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "develop",
+    "clone_url": "https://github.com/hdl/awesome.git"
+  },
+  {
     "repository_full_name": "janl/awesome",
     "name": "awesome",
     "owner": "janl",
@@ -350,17 +361,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/janl/awesome.git"
-  },
-  {
-    "repository_full_name": "hdl/awesome",
-    "name": "awesome",
-    "owner": "hdl",
-    "url": "https://github.com/hdl/awesome",
-    "stars": 175,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "develop",
-    "clone_url": "https://github.com/hdl/awesome.git"
   },
   {
     "repository_full_name": "effector/awesome",
