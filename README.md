@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-08-17**
+- Last updated: **2026-08-18**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 496,854 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,941 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,519 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 497,055 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,943 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,520 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,986 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,706 |
@@ -28,7 +28,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 763 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 529 |
-| [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 443 |
+| [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 444 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 409 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
@@ -39,7 +39,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 290 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 264 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 250 |
-| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 249 |
+| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 250 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 225 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 211 |
 | [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 198 |
@@ -52,7 +52,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 171 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 167 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
-| [lencx/awesome](https://github.com/lencx/awesome) | lencx | 144 |
+| [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 143 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 132 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 124 |
@@ -85,7 +85,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 50 |
 | [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
 | [nodgear/Awesome](https://github.com/nodgear/Awesome) | nodgear | 49 |
-| [evmos/awesome](https://github.com/evmos/awesome) _(archived)_ | evmos | 48 |
+| [evmos/awesome](https://github.com/evmos/awesome) _(archived)_ | evmos | 47 |
 | [FightingDesign/awesome](https://github.com/FightingDesign/awesome) | FightingDesign | 46 |
 | [ItIsMeCall911/Awesome](https://github.com/ItIsMeCall911/Awesome) | ItIsMeCall911 | 46 |
 | [osmosis-labs/awesome](https://github.com/osmosis-labs/awesome) _(archived)_ | osmosis-labs | 45 |
