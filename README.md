@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 497,488 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 497,721 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,944 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,520 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,987 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,521 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,989 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,706 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,747 |
@@ -52,9 +52,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 171 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 167 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
-| [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
+| [lencx/awesome](https://github.com/lencx/awesome) | lencx | 146 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 143 |
-| [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 132 |
+| [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 124 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
