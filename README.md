@@ -15,13 +15,13 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 498,320 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,945 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 498,541 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,943 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,524 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,998 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,002 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,708 |
-| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,707 |
-| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,747 |
+| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
+| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,748 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,089 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,037 |
@@ -30,7 +30,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 532 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 444 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 410 |
-| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 395 |
+| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 346 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 338 |
