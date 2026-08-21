@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 498119,
+    "stars": 498320,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,22 +37,11 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 3996,
+    "stars": 3998,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/0xor0ne/awesome-list.git"
-  },
-  {
-    "repository_full_name": "rollup/awesome",
-    "name": "awesome",
-    "owner": "rollup",
-    "url": "https://github.com/rollup/awesome",
-    "stars": 2709,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/rollup/awesome.git"
   },
   {
     "repository_full_name": "chartjs/awesome",
@@ -64,6 +53,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/chartjs/awesome.git"
+  },
+  {
+    "repository_full_name": "rollup/awesome",
+    "name": "awesome",
+    "owner": "rollup",
+    "url": "https://github.com/rollup/awesome",
+    "stars": 2707,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/rollup/awesome.git"
   },
   {
     "repository_full_name": "vuetifyjs/awesome",
@@ -675,7 +675,7 @@
     "name": "awesome",
     "owner": "jhealy",
     "url": "https://github.com/jhealy/awesome",
-    "stars": 68,
+    "stars": 67,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
