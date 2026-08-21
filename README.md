@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-08-20**
+- Last updated: **2026-08-21**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,12 +15,12 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 498,119 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 498,320 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,945 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,524 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,996 |
-| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 3,998 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,708 |
+| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,707 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,747 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,089 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
@@ -76,7 +76,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [beerandcodeteam/awesome-list](https://github.com/beerandcodeteam/awesome-list) | beerandcodeteam | 80 |
 | [simonecorsi/awesome](https://github.com/simonecorsi/awesome) _(archived)_ | simonecorsi | 78 |
 | [tomatophp/awesome](https://github.com/tomatophp/awesome) | tomatophp | 77 |
-| [jhealy/awesome](https://github.com/jhealy/awesome) | jhealy | 68 |
+| [jhealy/awesome](https://github.com/jhealy/awesome) | jhealy | 67 |
 | [Senzing/awesome](https://github.com/Senzing/awesome) | Senzing | 67 |
 | [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 58 |
 | [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) | ceramicnetwork | 57 |
