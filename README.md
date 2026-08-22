@@ -15,8 +15,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 498,690 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,942 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 498,894 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,943 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,524 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,004 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,708 |
@@ -97,7 +97,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [thepushkarp/awesome](https://github.com/thepushkarp/awesome) | thepushkarp | 37 |
 | [wasabeef/awesome](https://github.com/wasabeef/awesome) | wasabeef | 37 |
 | [andyjud/awesome](https://github.com/andyjud/awesome) | andyjud | 36 |
-| [kilimchoi/awesome](https://github.com/kilimchoi/awesome) | kilimchoi | 35 |
+| [kilimchoi/awesome](https://github.com/kilimchoi/awesome) | kilimchoi | 36 |
 | [petrelselina/awesome](https://github.com/petrelselina/awesome) | petrelselina | 34 |
 | [ExtendScript/awesome](https://github.com/ExtendScript/awesome) | ExtendScript | 32 |
 | [ruanbekker/awesome-list](https://github.com/ruanbekker/awesome-list) | ruanbekker | 32 |
