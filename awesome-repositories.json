@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 499024,
+    "stars": 499187,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6943,
+    "stars": 6944,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5524,
+    "stars": 5525,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4005,
+    "stars": 4006,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -253,6 +253,17 @@
     "clone_url": "https://github.com/firasuke/awesome.git"
   },
   {
+    "repository_full_name": "ScoopInstaller/Awesome",
+    "name": "Awesome",
+    "owner": "ScoopInstaller",
+    "url": "https://github.com/ScoopInstaller/Awesome",
+    "stars": 251,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/ScoopInstaller/Awesome.git"
+  },
+  {
     "repository_full_name": "itenfay/Awesome",
     "name": "Awesome",
     "owner": "itenfay",
@@ -262,17 +273,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/itenfay/Awesome.git"
-  },
-  {
-    "repository_full_name": "ScoopInstaller/Awesome",
-    "name": "Awesome",
-    "owner": "ScoopInstaller",
-    "url": "https://github.com/ScoopInstaller/Awesome",
-    "stars": 250,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/ScoopInstaller/Awesome.git"
   },
   {
     "repository_full_name": "wangzzu/awesome",
@@ -539,17 +539,6 @@
     "clone_url": "https://github.com/webusb/awesome.git"
   },
   {
-    "repository_full_name": "bangumi-data/awesome",
-    "name": "awesome",
-    "owner": "bangumi-data",
-    "url": "https://github.com/bangumi-data/awesome",
-    "stars": 89,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/bangumi-data/awesome.git"
-  },
-  {
     "repository_full_name": "erbanku/awesome",
     "name": "awesome",
     "owner": "erbanku",
@@ -559,6 +548,17 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/erbanku/awesome.git"
+  },
+  {
+    "repository_full_name": "bangumi-data/awesome",
+    "name": "awesome",
+    "owner": "bangumi-data",
+    "url": "https://github.com/bangumi-data/awesome",
+    "stars": 88,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/bangumi-data/awesome.git"
   },
   {
     "repository_full_name": "skyrocknroll/awesome",
