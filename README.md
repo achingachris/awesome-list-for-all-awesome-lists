@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 499,024 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,943 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,524 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,005 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 499,187 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,944 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,525 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,006 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,709 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,748 |
@@ -38,8 +38,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 290 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 264 |
+| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 251 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 250 |
-| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 250 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 225 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 211 |
 | [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 200 |
@@ -64,8 +64,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
-| [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 89 |
 | [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 89 |
+| [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 88 |
 | [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 85 |
 | [suyear/awesome](https://github.com/suyear/awesome) | suyear | 85 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |
