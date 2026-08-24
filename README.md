@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-08-23**
+- Last updated: **2026-08-24**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,7 +15,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 499,187 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 499,343 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,944 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,525 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,006 |
@@ -37,7 +37,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 334 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 290 |
-| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 264 |
+| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 265 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 251 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 250 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 225 |
