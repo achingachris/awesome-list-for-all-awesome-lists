@@ -15,16 +15,16 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 499,669 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 499,842 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,943 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,526 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,009 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,711 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,525 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,020 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,712 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,750 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,089 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,038 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,039 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 765 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 532 |
@@ -59,7 +59,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 103 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 102 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 103 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 100 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
@@ -80,7 +80,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Senzing/awesome](https://github.com/Senzing/awesome) | Senzing | 67 |
 | [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 58 |
 | [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) | ceramicnetwork | 57 |
-| [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 55 |
+| [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 56 |
 | [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 53 |
 | [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 50 |
 | [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
