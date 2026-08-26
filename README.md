@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 499,974 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,943 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,524 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,049 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 500,138 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,945 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,526 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,064 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,713 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,749 |
@@ -27,7 +27,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,039 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 765 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
-| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 532 |
+| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 533 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 444 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 411 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
