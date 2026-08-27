@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **796 repositories total**
 - **102** named `awesome`
 - **694** named `awesome-list`
-- Last updated: **2026-08-26**
+- Last updated: **2026-08-27**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 500,138 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,945 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 500,403 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,947 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,526 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,064 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,069 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,713 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,749 |
@@ -72,7 +72,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [eiroca/awesome-list](https://github.com/eiroca/awesome-list) | eiroca | 83 |
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 83 |
 | [open-data-science/awesome](https://github.com/open-data-science/awesome) | open-data-science | 82 |
-| [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 82 |
+| [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 81 |
 | [beerandcodeteam/awesome-list](https://github.com/beerandcodeteam/awesome-list) | beerandcodeteam | 80 |
 | [simonecorsi/awesome](https://github.com/simonecorsi/awesome) _(archived)_ | simonecorsi | 78 |
 | [tomatophp/awesome](https://github.com/tomatophp/awesome) | tomatophp | 78 |
