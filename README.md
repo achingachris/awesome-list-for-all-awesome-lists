@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **796 repositories total**
 - **102** named `awesome`
 - **694** named `awesome-list`
-- Last updated: **2026-08-27**
+- Last updated: **2026-08-28**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,14 +15,14 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 500,403 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 500,542 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,947 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,526 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,069 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,527 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,072 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,713 |
-| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
+| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,749 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,089 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,039 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 765 |
@@ -159,6 +159,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [altomator/awesome-list](https://github.com/altomator/awesome-list) | altomator | 1 |
 | [bassim00/awesome-list](https://github.com/bassim00/awesome-list) | bassim00 | 1 |
 | [carcinocron/awesome-list](https://github.com/carcinocron/awesome-list) | carcinocron | 1 |
+| [Cfomodz/Awesome-List](https://github.com/Cfomodz/Awesome-List) | Cfomodz | 1 |
 | [Chronillogical-Potato/awesome-list](https://github.com/Chronillogical-Potato/awesome-list) | Chronillogical-Potato | 1 |
 | [cpereiraweb/awesome-list](https://github.com/cpereiraweb/awesome-list) | cpereiraweb | 1 |
 | [CWSpear/awesome-list](https://github.com/CWSpear/awesome-list) | CWSpear | 1 |
@@ -284,7 +285,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Catherinesjkim/awesome-list](https://github.com/Catherinesjkim/awesome-list) | Catherinesjkim | 0 |
 | [CBstrike/awesome-list](https://github.com/CBstrike/awesome-list) | CBstrike | 0 |
 | [cephurs/awesome-list](https://github.com/cephurs/awesome-list) | cephurs | 0 |
-| [Cfomodz/Awesome-List](https://github.com/Cfomodz/Awesome-List) | Cfomodz | 0 |
 | [cgb-tech/awesome-list](https://github.com/cgb-tech/awesome-list) | cgb-tech | 0 |
 | [cgcoder/awesome-list](https://github.com/cgcoder/awesome-list) | cgcoder | 0 |
 | [chan-shaw/awesome-list](https://github.com/chan-shaw/awesome-list) | chan-shaw | 0 |
