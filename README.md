@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 501,270 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 501,390 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,948 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,076 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,079 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,715 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
@@ -152,6 +152,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [gpproton/awesome-list](https://github.com/gpproton/awesome-list) | gpproton | 2 |
 | [Jieyab89/awesome-list](https://github.com/Jieyab89/awesome-list) | Jieyab89 | 2 |
 | [OffensiveBrute/awesome-list](https://github.com/OffensiveBrute/awesome-list) | OffensiveBrute | 2 |
+| [SAAITAAMAA/awesome-list](https://github.com/SAAITAAMAA/awesome-list) | SAAITAAMAA | 2 |
 | [vim-sc/awesome-list](https://github.com/vim-sc/awesome-list) | vim-sc | 2 |
 | [0xroot-bf/awesome-list](https://github.com/0xroot-bf/awesome-list) | 0xroot-bf | 1 |
 | [akdmjeau-eng/awesome-list](https://github.com/akdmjeau-eng/awesome-list) | akdmjeau-eng | 1 |
@@ -181,7 +182,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [piepin/awesome-list](https://github.com/piepin/awesome-list) | piepin | 1 |
 | [r2nw/awesome-list](https://github.com/r2nw/awesome-list) | r2nw | 1 |
 | [rehank0678/awesome-list](https://github.com/rehank0678/awesome-list) | rehank0678 | 1 |
-| [SAAITAAMAA/awesome-list](https://github.com/SAAITAAMAA/awesome-list) | SAAITAAMAA | 1 |
 | [sondip121/awesome-list](https://github.com/sondip121/awesome-list) | sondip121 | 1 |
 | [sudoki2015/awesome-list](https://github.com/sudoki2015/awesome-list) | sudoki2015 | 1 |
 | [Techgraph-777/awesome-list](https://github.com/Techgraph-777/awesome-list) | Techgraph-777 | 1 |

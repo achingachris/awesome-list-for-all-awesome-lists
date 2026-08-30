@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 501270,
+    "stars": 501390,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4076,
+    "stars": 4079,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -1507,6 +1507,17 @@
     "clone_url": "https://github.com/OffensiveBrute/awesome-list.git"
   },
   {
+    "repository_full_name": "SAAITAAMAA/awesome-list",
+    "name": "awesome-list",
+    "owner": "SAAITAAMAA",
+    "url": "https://github.com/SAAITAAMAA/awesome-list",
+    "stars": 2,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/SAAITAAMAA/awesome-list.git"
+  },
+  {
     "repository_full_name": "vim-sc/awesome-list",
     "name": "awesome-list",
     "owner": "vim-sc",
@@ -1824,17 +1835,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/rehank0678/awesome-list.git"
-  },
-  {
-    "repository_full_name": "SAAITAAMAA/awesome-list",
-    "name": "awesome-list",
-    "owner": "SAAITAAMAA",
-    "url": "https://github.com/SAAITAAMAA/awesome-list",
-    "stars": 1,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/SAAITAAMAA/awesome-list.git"
   },
   {
     "repository_full_name": "sondip121/awesome-list",
