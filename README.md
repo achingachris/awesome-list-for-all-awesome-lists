@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-08-29**
+- Last updated: **2026-08-30**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 501,102 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 501,270 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,948 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,074 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,714 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,076 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,715 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
@@ -42,7 +42,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 250 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 227 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 211 |
-| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 200 |
+| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 201 |
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 195 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
