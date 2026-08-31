@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 501571,
+    "stars": 501697,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5529,
+    "stars": 5530,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -92,7 +92,7 @@
     "name": "awesome",
     "owner": "Rocketseat",
     "url": "https://github.com/Rocketseat/awesome",
-    "stars": 1087,
+    "stars": 1088,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1879,6 +1879,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/tehruhn/awesome-list.git"
+  },
+  {
+    "repository_full_name": "TIDES-transit/awesome-list",
+    "name": "awesome-list",
+    "owner": "TIDES-transit",
+    "url": "https://github.com/TIDES-transit/awesome-list",
+    "stars": 1,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/TIDES-transit/awesome-list.git"
   },
   {
     "repository_full_name": "V33RU/awesome-list",
@@ -7907,17 +7918,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/tianhengxu/awesome-list.git"
-  },
-  {
-    "repository_full_name": "TIDES-transit/awesome-list",
-    "name": "awesome-list",
-    "owner": "TIDES-transit",
-    "url": "https://github.com/TIDES-transit/awesome-list",
-    "stars": 0,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/TIDES-transit/awesome-list.git"
   },
   {
     "repository_full_name": "to4to/awesome-list",

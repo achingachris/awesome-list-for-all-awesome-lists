@@ -15,15 +15,15 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 501,571 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 501,697 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,948 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,081 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,715 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
-| [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,087 |
+| [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,040 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 765 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
@@ -186,6 +186,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [sudoki2015/awesome-list](https://github.com/sudoki2015/awesome-list) | sudoki2015 | 1 |
 | [Techgraph-777/awesome-list](https://github.com/Techgraph-777/awesome-list) | Techgraph-777 | 1 |
 | [tehruhn/awesome-list](https://github.com/tehruhn/awesome-list) | tehruhn | 1 |
+| [TIDES-transit/awesome-list](https://github.com/TIDES-transit/awesome-list) | TIDES-transit | 1 |
 | [V33RU/awesome-list](https://github.com/V33RU/awesome-list) | V33RU | 1 |
 | [xtiankisutsa/awesome-list](https://github.com/xtiankisutsa/awesome-list) | xtiankisutsa | 1 |
 | [yeshuibo/awesome-list](https://github.com/yeshuibo/awesome-list) | yeshuibo | 1 |
@@ -734,7 +735,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [thomasdarimont/awesome-list](https://github.com/thomasdarimont/awesome-list) | thomasdarimont | 0 |
 | [TiagoLemosNeitzke/awesome-list](https://github.com/TiagoLemosNeitzke/awesome-list) | TiagoLemosNeitzke | 0 |
 | [tianhengxu/awesome-list](https://github.com/tianhengxu/awesome-list) | tianhengxu | 0 |
-| [TIDES-transit/awesome-list](https://github.com/TIDES-transit/awesome-list) | TIDES-transit | 0 |
 | [to4to/awesome-list](https://github.com/to4to/awesome-list) | to4to | 0 |
 | [Toby-Hacker/awesome-list](https://github.com/Toby-Hacker/awesome-list) | Toby-Hacker | 0 |
 | [TomaszWaszczyk/awesome-list](https://github.com/TomaszWaszczyk/awesome-list) | TomaszWaszczyk | 0 |
