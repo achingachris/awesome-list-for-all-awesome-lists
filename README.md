@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-08-31**
+- Last updated: **2026-09-01**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,13 +15,13 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 501,697 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,948 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 501,828 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,949 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,081 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,715 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
-| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
+| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,040 |
@@ -58,7 +58,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 125 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 104 |
-| [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
+| [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 103 |
 | [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 102 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 100 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 97 |
