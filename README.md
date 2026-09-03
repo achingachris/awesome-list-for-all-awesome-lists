@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-09-02**
+- Last updated: **2026-09-03**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,7 +15,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 502,339 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 502,514 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,950 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,087 |
@@ -24,9 +24,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,041 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,042 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 765 |
-| [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 550 |
+| [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 533 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 445 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 412 |
@@ -53,7 +53,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 168 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 146 |
-| [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 143 |
+| [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 141 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 125 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
