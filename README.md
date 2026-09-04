@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-09-03**
+- Last updated: **2026-09-04**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 502,649 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,950 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 502,813 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,949 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,088 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,089 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,717 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
@@ -33,7 +33,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 346 |
-| [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 338 |
+| [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 334 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 289 |
