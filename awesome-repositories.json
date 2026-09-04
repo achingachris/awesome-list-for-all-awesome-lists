@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 502813,
+    "stars": 502982,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -158,7 +158,7 @@
     "name": "awesome",
     "owner": "feature-sliced",
     "url": "https://github.com/feature-sliced/awesome",
-    "stars": 412,
+    "stars": 413,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -235,7 +235,7 @@
     "name": "awesome",
     "owner": "ziyi2",
     "url": "https://github.com/ziyi2/awesome",
-    "stars": 289,
+    "stars": 288,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -583,6 +583,17 @@
     "clone_url": "https://github.com/suyear/awesome.git"
   },
   {
+    "repository_full_name": "HyperDbg/awesome",
+    "name": "awesome",
+    "owner": "HyperDbg",
+    "url": "https://github.com/HyperDbg/awesome",
+    "stars": 84,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/HyperDbg/awesome.git"
+  },
+  {
     "repository_full_name": "seapy/awesome",
     "name": "awesome",
     "owner": "seapy",
@@ -605,22 +616,11 @@
     "clone_url": "https://github.com/eiroca/awesome-list.git"
   },
   {
-    "repository_full_name": "HyperDbg/awesome",
-    "name": "awesome",
-    "owner": "HyperDbg",
-    "url": "https://github.com/HyperDbg/awesome",
-    "stars": 83,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/HyperDbg/awesome.git"
-  },
-  {
     "repository_full_name": "open-data-science/awesome",
     "name": "awesome",
     "owner": "open-data-science",
     "url": "https://github.com/open-data-science/awesome",
-    "stars": 82,
+    "stars": 81,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
