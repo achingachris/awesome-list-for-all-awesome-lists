@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **102** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-09-04**
+- Last updated: **2026-09-05**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,16 +15,16 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 502,982 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 503,102 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,949 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,089 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,090 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,717 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,042 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,043 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 765 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 533 |
