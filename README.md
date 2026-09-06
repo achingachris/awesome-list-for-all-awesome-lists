@@ -15,12 +15,12 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 503,411 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 503,573 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,950 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,531 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,114 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,126 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,717 |
-| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,707 |
+| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
@@ -32,7 +32,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 413 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
-| [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 346 |
+| [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 347 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 334 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
@@ -42,7 +42,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 250 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 227 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 210 |
-| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 201 |
+| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 200 |
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 196 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
