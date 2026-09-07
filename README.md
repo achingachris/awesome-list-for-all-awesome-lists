@@ -4,9 +4,9 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **794 repositories total**
+- **795 repositories total**
 - **102** named `awesome`
-- **692** named `awesome-list`
+- **693** named `awesome-list`
 - Last updated: **2026-09-07**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
@@ -15,14 +15,14 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 503,780 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,952 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 503,933 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,953 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,531 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,147 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,148 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,717 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,089 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,043 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 765 |
@@ -57,7 +57,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 125 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
-| [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 104 |
+| [compose-multiplatform/awesome](https://github.com/compose-multiplatform/awesome) | compose-multiplatform | 105 |
 | [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 103 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 103 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 100 |
@@ -71,8 +71,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 84 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |
 | [eiroca/awesome-list](https://github.com/eiroca/awesome-list) | eiroca | 83 |
+| [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 82 |
 | [open-data-science/awesome](https://github.com/open-data-science/awesome) | open-data-science | 81 |
-| [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 81 |
 | [beerandcodeteam/awesome-list](https://github.com/beerandcodeteam/awesome-list) | beerandcodeteam | 80 |
 | [simonecorsi/awesome](https://github.com/simonecorsi/awesome) _(archived)_ | simonecorsi | 78 |
 | [tomatophp/awesome](https://github.com/tomatophp/awesome) | tomatophp | 78 |
@@ -557,6 +557,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [morpheusc/awesome-list](https://github.com/morpheusc/awesome-list) | morpheusc | 0 |
 | [morpheusme/awesome-list](https://github.com/morpheusme/awesome-list) | morpheusme | 0 |
 | [Mr-guqin/awesome-list](https://github.com/Mr-guqin/awesome-list) | Mr-guqin | 0 |
+| [mr-ruhid/awesome-list](https://github.com/mr-ruhid/awesome-list) | mr-ruhid | 0 |
 | [mrKetos/Awesome-List](https://github.com/mrKetos/Awesome-List) | mrKetos | 0 |
 | [mrzmyr/awesome-list](https://github.com/mrzmyr/awesome-list) | mrzmyr | 0 |
 | [ms-5/awesome-list](https://github.com/ms-5/awesome-list) | ms-5 | 0 |
