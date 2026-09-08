@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-09-07**
+- Last updated: **2026-09-08**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 503,933 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 504,077 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,953 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,531 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,148 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,149 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,717 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
@@ -29,7 +29,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 533 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 445 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 413 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 415 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 347 |
@@ -66,7 +66,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
 | [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 89 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 88 |
-| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 86 |
+| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 87 |
 | [suyear/awesome](https://github.com/suyear/awesome) | suyear | 85 |
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 84 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |
