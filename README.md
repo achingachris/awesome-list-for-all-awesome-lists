@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-09-08**
+- Last updated: **2026-09-09**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,7 +15,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 504,214 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 504,371 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,953 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,531 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,152 |
@@ -24,8 +24,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,089 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,043 |
-| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 765 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,044 |
+| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 766 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 533 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 445 |
