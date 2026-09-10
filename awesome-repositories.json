@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 504488,
+    "stars": 504636,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6953,
+    "stars": 6954,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5531,
+    "stars": 5530,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1584,17 +1584,6 @@
     "clone_url": "https://github.com/carcinocron/awesome-list.git"
   },
   {
-    "repository_full_name": "Cfomodz/Awesome-List",
-    "name": "Awesome-List",
-    "owner": "Cfomodz",
-    "url": "https://github.com/Cfomodz/Awesome-List",
-    "stars": 1,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/Cfomodz/Awesome-List.git"
-  },
-  {
     "repository_full_name": "Chronillogical-Potato/awesome-list",
     "name": "awesome-list",
     "owner": "Chronillogical-Potato",
@@ -2968,6 +2957,17 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/cephurs/awesome-list.git"
+  },
+  {
+    "repository_full_name": "Cfomodz/Awesome-List",
+    "name": "Awesome-List",
+    "owner": "Cfomodz",
+    "url": "https://github.com/Cfomodz/Awesome-List",
+    "stars": 0,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/Cfomodz/Awesome-List.git"
   },
   {
     "repository_full_name": "cgb-tech/awesome-list",
@@ -5181,17 +5181,6 @@
     "clone_url": "https://github.com/l16by/awesome-list.git"
   },
   {
-    "repository_full_name": "latinos-bub/awesome-list",
-    "name": "awesome-list",
-    "owner": "latinos-bub",
-    "url": "https://github.com/latinos-bub/awesome-list",
-    "stars": 0,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/latinos-bub/awesome-list.git"
-  },
-  {
     "repository_full_name": "lbeneston/awesome-list",
     "name": "awesome-list",
     "owner": "lbeneston",
@@ -5465,6 +5454,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/longneckfox/awesome-list.git"
+  },
+  {
+    "repository_full_name": "lorem-moon/awesome-list",
+    "name": "awesome-list",
+    "owner": "lorem-moon",
+    "url": "https://github.com/lorem-moon/awesome-list",
+    "stars": 0,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/lorem-moon/awesome-list.git"
   },
   {
     "repository_full_name": "loveunique/awesome-list",

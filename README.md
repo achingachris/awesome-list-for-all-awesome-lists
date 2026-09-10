@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-09-09**
+- Last updated: **2026-09-10**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 504,488 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,953 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,531 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 504,636 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,954 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,152 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,718 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
@@ -159,7 +159,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [altomator/awesome-list](https://github.com/altomator/awesome-list) | altomator | 1 |
 | [bassim00/awesome-list](https://github.com/bassim00/awesome-list) | bassim00 | 1 |
 | [carcinocron/awesome-list](https://github.com/carcinocron/awesome-list) | carcinocron | 1 |
-| [Cfomodz/Awesome-List](https://github.com/Cfomodz/Awesome-List) | Cfomodz | 1 |
 | [Chronillogical-Potato/awesome-list](https://github.com/Chronillogical-Potato/awesome-list) | Chronillogical-Potato | 1 |
 | [cpereiraweb/awesome-list](https://github.com/cpereiraweb/awesome-list) | cpereiraweb | 1 |
 | [CWSpear/awesome-list](https://github.com/CWSpear/awesome-list) | CWSpear | 1 |
@@ -285,6 +284,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Catherinesjkim/awesome-list](https://github.com/Catherinesjkim/awesome-list) | Catherinesjkim | 0 |
 | [CBstrike/awesome-list](https://github.com/CBstrike/awesome-list) | CBstrike | 0 |
 | [cephurs/awesome-list](https://github.com/cephurs/awesome-list) | cephurs | 0 |
+| [Cfomodz/Awesome-List](https://github.com/Cfomodz/Awesome-List) | Cfomodz | 0 |
 | [cgb-tech/awesome-list](https://github.com/cgb-tech/awesome-list) | cgb-tech | 0 |
 | [cgcoder/awesome-list](https://github.com/cgcoder/awesome-list) | cgcoder | 0 |
 | [chan-shaw/awesome-list](https://github.com/chan-shaw/awesome-list) | chan-shaw | 0 |
@@ -486,7 +486,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [kuts-denys/awesome-list](https://github.com/kuts-denys/awesome-list) | kuts-denys | 0 |
 | [Kyr/awesome-list](https://github.com/Kyr/awesome-list) | Kyr | 0 |
 | [l16by/awesome-list](https://github.com/l16by/awesome-list) | l16by | 0 |
-| [latinos-bub/awesome-list](https://github.com/latinos-bub/awesome-list) | latinos-bub | 0 |
 | [lbeneston/awesome-list](https://github.com/lbeneston/awesome-list) | lbeneston | 0 |
 | [leduckhc/awesome-list](https://github.com/leduckhc/awesome-list) _(archived)_ | leduckhc | 0 |
 | [leejones92/awesome-list](https://github.com/leejones92/awesome-list) | leejones92 | 0 |
@@ -512,6 +511,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [lola530/awesome-list](https://github.com/lola530/awesome-list) | lola530 | 0 |
 | [Longhaier/awesome-list](https://github.com/Longhaier/awesome-list) | Longhaier | 0 |
 | [longneckfox/awesome-list](https://github.com/longneckfox/awesome-list) | longneckfox | 0 |
+| [lorem-moon/awesome-list](https://github.com/lorem-moon/awesome-list) | lorem-moon | 0 |
 | [loveunique/awesome-list](https://github.com/loveunique/awesome-list) | loveunique | 0 |
 | [lucifer1708/awesome-list](https://github.com/lucifer1708/awesome-list) | lucifer1708 | 0 |
 | [luckied/awesome-list](https://github.com/luckied/awesome-list) | luckied | 0 |
