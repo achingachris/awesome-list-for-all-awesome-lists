@@ -4,10 +4,10 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **795 repositories total**
+- **794 repositories total**
 - **102** named `awesome`
-- **693** named `awesome-list`
-- Last updated: **2026-09-10**
+- **692** named `awesome-list`
+- Last updated: **2026-09-11**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 504,771 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,953 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 504,965 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,954 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,154 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,156 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,718 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
@@ -29,7 +29,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 533 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 445 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 415 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 414 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 395 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 347 |
@@ -521,7 +521,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [LvLvMiao/awesome-list](https://github.com/LvLvMiao/awesome-list) | LvLvMiao | 0 |
 | [lwsinclair/awesome-list](https://github.com/lwsinclair/awesome-list) | lwsinclair | 0 |
 | [lxzmxl/awesome-list](https://github.com/lxzmxl/awesome-list) | lxzmxl | 0 |
-| [lxzy-yun/awesome-list](https://github.com/lxzy-yun/awesome-list) | lxzy-yun | 0 |
 | [Lyvia-hub/Awesome-List](https://github.com/Lyvia-hub/Awesome-List) | Lyvia-hub | 0 |
 | [Macwe1l/awesome-list](https://github.com/Macwe1l/awesome-list) | Macwe1l | 0 |
 | [Made-Jaya/awesome-list](https://github.com/Made-Jaya/awesome-list) | Made-Jaya | 0 |
