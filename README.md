@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 505,249 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 505,384 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,956 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,158 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,159 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,718 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
@@ -52,7 +52,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 172 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 168 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
-| [lencx/awesome](https://github.com/lencx/awesome) | lencx | 146 |
+| [lencx/awesome](https://github.com/lencx/awesome) | lencx | 147 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 141 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 125 |
@@ -78,8 +78,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [tomatophp/awesome](https://github.com/tomatophp/awesome) | tomatophp | 78 |
 | [jhealy/awesome](https://github.com/jhealy/awesome) | jhealy | 68 |
 | [Senzing/awesome](https://github.com/Senzing/awesome) | Senzing | 67 |
-| [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 58 |
 | [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) | ceramicnetwork | 57 |
+| [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 57 |
 | [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 56 |
 | [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 53 |
 | [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 50 |
