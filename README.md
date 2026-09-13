@@ -4,9 +4,9 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **794 repositories total**
+- **795 repositories total**
 - **102** named `awesome`
-- **692** named `awesome-list`
+- **693** named `awesome-list`
 - Last updated: **2026-09-13**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 505,549 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,957 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,161 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 505,682 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,958 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,528 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,162 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,718 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
@@ -736,6 +736,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [tianhengxu/awesome-list](https://github.com/tianhengxu/awesome-list) | tianhengxu | 0 |
 | [to4to/awesome-list](https://github.com/to4to/awesome-list) | to4to | 0 |
 | [Toby-Hacker/awesome-list](https://github.com/Toby-Hacker/awesome-list) | Toby-Hacker | 0 |
+| [Toha764/awesome-list](https://github.com/Toha764/awesome-list) | Toha764 | 0 |
 | [TomaszWaszczyk/awesome-list](https://github.com/TomaszWaszczyk/awesome-list) | TomaszWaszczyk | 0 |
 | [tomexx/awesome-list](https://github.com/tomexx/awesome-list) | tomexx | 0 |
 | [tomkiyang/awesome-list](https://github.com/tomkiyang/awesome-list) | tomkiyang | 0 |
