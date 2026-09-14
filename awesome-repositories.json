@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 505682,
+    "stars": 505886,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4162,
+    "stars": 4163,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -114,7 +114,7 @@
     "name": "awesome",
     "owner": "shenwei356",
     "url": "https://github.com/shenwei356/awesome",
-    "stars": 766,
+    "stars": 767,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1236,7 +1236,7 @@
     "name": "awesome-list",
     "owner": "xingshaocheng",
     "url": "https://github.com/xingshaocheng/awesome-list",
-    "stars": 11,
+    "stars": 12,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1395,6 +1395,17 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/MIS-GrApH-AI/awesome-list.git"
+  },
+  {
+    "repository_full_name": "mr-ruhid/awesome-list",
+    "name": "awesome-list",
+    "owner": "mr-ruhid",
+    "url": "https://github.com/mr-ruhid/awesome-list",
+    "stars": 4,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/mr-ruhid/awesome-list.git"
   },
   {
     "repository_full_name": "xueyufish/awesome-list",
@@ -5949,17 +5960,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/Mr-guqin/awesome-list.git"
-  },
-  {
-    "repository_full_name": "mr-ruhid/awesome-list",
-    "name": "awesome-list",
-    "owner": "mr-ruhid",
-    "url": "https://github.com/mr-ruhid/awesome-list",
-    "stars": 0,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/mr-ruhid/awesome-list.git"
   },
   {
     "repository_full_name": "mrKetos/Awesome-List",
