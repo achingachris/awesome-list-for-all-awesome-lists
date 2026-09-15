@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 506014,
+    "stars": 506180,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4164,
+    "stars": 4167,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -92,7 +92,7 @@
     "name": "awesome",
     "owner": "Rocketseat",
     "url": "https://github.com/Rocketseat/awesome",
-    "stars": 1088,
+    "stars": 1089,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -114,7 +114,7 @@
     "name": "awesome",
     "owner": "shenwei356",
     "url": "https://github.com/shenwei356/awesome",
-    "stars": 767,
+    "stars": 768,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1265,6 +1265,17 @@
     "clone_url": "https://github.com/loveshell/awesome-list.git"
   },
   {
+    "repository_full_name": "mr-ruhid/awesome-list",
+    "name": "awesome-list",
+    "owner": "mr-ruhid",
+    "url": "https://github.com/mr-ruhid/awesome-list",
+    "stars": 8,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/mr-ruhid/awesome-list.git"
+  },
+  {
     "repository_full_name": "xathrya/awesome-list",
     "name": "awesome-list",
     "owner": "xathrya",
@@ -1395,17 +1406,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/MIS-GrApH-AI/awesome-list.git"
-  },
-  {
-    "repository_full_name": "mr-ruhid/awesome-list",
-    "name": "awesome-list",
-    "owner": "mr-ruhid",
-    "url": "https://github.com/mr-ruhid/awesome-list",
-    "stars": 4,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/mr-ruhid/awesome-list.git"
   },
   {
     "repository_full_name": "xueyufish/awesome-list",
