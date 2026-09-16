@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 506516,
+    "stars": 506691,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6958,
+    "stars": 6959,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5528,
+    "stars": 5529,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -389,7 +389,7 @@
     "name": "awesome",
     "owner": "statamic",
     "url": "https://github.com/statamic/awesome",
-    "stars": 168,
+    "stars": 169,
     "visibility": "public",
     "archived": true,
     "default_branch": "master",
@@ -1529,6 +1529,17 @@
     "clone_url": "https://github.com/SAAITAAMAA/awesome-list.git"
   },
   {
+    "repository_full_name": "TIDES-transit/awesome-list",
+    "name": "awesome-list",
+    "owner": "TIDES-transit",
+    "url": "https://github.com/TIDES-transit/awesome-list",
+    "stars": 2,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/TIDES-transit/awesome-list.git"
+  },
+  {
     "repository_full_name": "vim-sc/awesome-list",
     "name": "awesome-list",
     "owner": "vim-sc",
@@ -1879,17 +1890,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/tehruhn/awesome-list.git"
-  },
-  {
-    "repository_full_name": "TIDES-transit/awesome-list",
-    "name": "awesome-list",
-    "owner": "TIDES-transit",
-    "url": "https://github.com/TIDES-transit/awesome-list",
-    "stars": 1,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/TIDES-transit/awesome-list.git"
   },
   {
     "repository_full_name": "V33RU/awesome-list",

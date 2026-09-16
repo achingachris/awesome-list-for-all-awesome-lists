@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 506,516 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,958 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,528 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 506,691 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,959 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,169 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,719 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
@@ -50,7 +50,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 174 |
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 172 |
-| [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 168 |
+| [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 169 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 147 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 141 |
@@ -154,6 +154,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Jieyab89/awesome-list](https://github.com/Jieyab89/awesome-list) | Jieyab89 | 2 |
 | [OffensiveBrute/awesome-list](https://github.com/OffensiveBrute/awesome-list) | OffensiveBrute | 2 |
 | [SAAITAAMAA/awesome-list](https://github.com/SAAITAAMAA/awesome-list) | SAAITAAMAA | 2 |
+| [TIDES-transit/awesome-list](https://github.com/TIDES-transit/awesome-list) | TIDES-transit | 2 |
 | [vim-sc/awesome-list](https://github.com/vim-sc/awesome-list) | vim-sc | 2 |
 | [0xroot-bf/awesome-list](https://github.com/0xroot-bf/awesome-list) | 0xroot-bf | 1 |
 | [akdmjeau-eng/awesome-list](https://github.com/akdmjeau-eng/awesome-list) | akdmjeau-eng | 1 |
@@ -186,7 +187,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [sudoki2015/awesome-list](https://github.com/sudoki2015/awesome-list) | sudoki2015 | 1 |
 | [Techgraph-777/awesome-list](https://github.com/Techgraph-777/awesome-list) | Techgraph-777 | 1 |
 | [tehruhn/awesome-list](https://github.com/tehruhn/awesome-list) | tehruhn | 1 |
-| [TIDES-transit/awesome-list](https://github.com/TIDES-transit/awesome-list) | TIDES-transit | 1 |
 | [V33RU/awesome-list](https://github.com/V33RU/awesome-list) | V33RU | 1 |
 | [xtiankisutsa/awesome-list](https://github.com/xtiankisutsa/awesome-list) | xtiankisutsa | 1 |
 | [yeshuibo/awesome-list](https://github.com/yeshuibo/awesome-list) | yeshuibo | 1 |
