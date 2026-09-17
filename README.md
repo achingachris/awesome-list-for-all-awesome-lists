@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-09-16**
+- Last updated: **2026-09-17**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,26 +15,26 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 506,691 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 506,914 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,959 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,169 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,719 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,720 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,751 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,089 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,044 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,043 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 768 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 533 |
-| [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 446 |
+| [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 447 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 414 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 396 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 348 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
-| [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 334 |
+| [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 335 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 265 |
