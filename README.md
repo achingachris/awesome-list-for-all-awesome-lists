@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **795 repositories total**
 - **102** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-09-17**
+- Last updated: **2026-09-18**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 507,106 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,959 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 507,281 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,958 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,171 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,172 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,720 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
@@ -65,8 +65,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
 | [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 89 |
+| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 89 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 88 |
-| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 87 |
 | [suyear/awesome](https://github.com/suyear/awesome) | suyear | 85 |
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 84 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |

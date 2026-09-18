@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 507106,
+    "stars": 507281,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6959,
+    "stars": 6958,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4171,
+    "stars": 4172,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -550,6 +550,17 @@
     "clone_url": "https://github.com/erbanku/awesome.git"
   },
   {
+    "repository_full_name": "skyrocknroll/awesome",
+    "name": "awesome",
+    "owner": "skyrocknroll",
+    "url": "https://github.com/skyrocknroll/awesome",
+    "stars": 89,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/skyrocknroll/awesome.git"
+  },
+  {
     "repository_full_name": "bangumi-data/awesome",
     "name": "awesome",
     "owner": "bangumi-data",
@@ -559,17 +570,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/bangumi-data/awesome.git"
-  },
-  {
-    "repository_full_name": "skyrocknroll/awesome",
-    "name": "awesome",
-    "owner": "skyrocknroll",
-    "url": "https://github.com/skyrocknroll/awesome",
-    "stars": 87,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/skyrocknroll/awesome.git"
   },
   {
     "repository_full_name": "suyear/awesome",
