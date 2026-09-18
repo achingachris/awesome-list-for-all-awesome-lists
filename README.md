@@ -15,8 +15,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 507,281 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,958 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 507,443 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,960 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,172 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,720 |
@@ -30,7 +30,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 533 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 447 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 414 |
-| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 396 |
+| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 395 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 348 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
@@ -128,7 +128,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [mgkid3310/AWESome](https://github.com/mgkid3310/AWESome) | mgkid3310 | 14 |
 | [bikramtuladhar/awesome-list](https://github.com/bikramtuladhar/awesome-list) | bikramtuladhar | 13 |
 | [xingshaocheng/awesome-list](https://github.com/xingshaocheng/awesome-list) | xingshaocheng | 12 |
-| [mr-ruhid/awesome-list](https://github.com/mr-ruhid/awesome-list) | mr-ruhid | 10 |
+| [mr-ruhid/awesome-list](https://github.com/mr-ruhid/awesome-list) | mr-ruhid | 11 |
 | [JingwenTian/awesome-list](https://github.com/JingwenTian/awesome-list) | JingwenTian | 9 |
 | [loveshell/awesome-list](https://github.com/loveshell/awesome-list) | loveshell | 9 |
 | [xathrya/awesome-list](https://github.com/xathrya/awesome-list) | xathrya | 7 |
