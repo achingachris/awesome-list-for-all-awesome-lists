@@ -15,14 +15,14 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 509,151 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 509,360 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,962 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,530 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,191 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,192 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,723 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,089 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,046 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 768 |
