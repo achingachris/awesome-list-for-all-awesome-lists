@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **101** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-09-23**
+- Last updated: **2026-09-24**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 509,360 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,962 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 509,604 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,964 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,192 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,193 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,723 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
@@ -32,7 +32,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 415 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
-| [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 349 |
+| [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 350 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 335 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
