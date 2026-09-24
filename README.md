@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 509,604 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 509,879 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,964 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,193 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,723 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,724 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
@@ -34,7 +34,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 350 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
-| [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 335 |
+| [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 336 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 265 |
