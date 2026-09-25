@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **101** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-09-24**
+- Last updated: **2026-09-25**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 509,879 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 510,144 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,964 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,529 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,193 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,724 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,194 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,725 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
@@ -48,8 +48,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 177 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
-| [effector/awesome](https://github.com/effector/awesome) | effector | 174 |
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 173 |
+| [effector/awesome](https://github.com/effector/awesome) | effector | 173 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 169 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 147 |

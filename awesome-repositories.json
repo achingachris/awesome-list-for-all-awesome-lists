@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 509879,
+    "stars": 510144,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4193,
+    "stars": 4194,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -48,7 +48,7 @@
     "name": "awesome",
     "owner": "chartjs",
     "url": "https://github.com/chartjs/awesome",
-    "stars": 2724,
+    "stars": 2725,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -363,17 +363,6 @@
     "clone_url": "https://github.com/janl/awesome.git"
   },
   {
-    "repository_full_name": "effector/awesome",
-    "name": "awesome",
-    "owner": "effector",
-    "url": "https://github.com/effector/awesome",
-    "stars": 174,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/effector/awesome.git"
-  },
-  {
     "repository_full_name": "Am0rphous/Awesome",
     "name": "Awesome",
     "owner": "Am0rphous",
@@ -383,6 +372,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/Am0rphous/Awesome.git"
+  },
+  {
+    "repository_full_name": "effector/awesome",
+    "name": "awesome",
+    "owner": "effector",
+    "url": "https://github.com/effector/awesome",
+    "stars": 173,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/effector/awesome.git"
   },
   {
     "repository_full_name": "statamic/awesome",
