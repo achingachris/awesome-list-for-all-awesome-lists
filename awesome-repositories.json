@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 510371,
+    "stars": 510636,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6963,
+    "stars": 6964,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4196,
+    "stars": 4197,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -411,7 +411,7 @@
     "name": "awesome",
     "owner": "lencx",
     "url": "https://github.com/lencx/awesome",
-    "stars": 147,
+    "stars": 146,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -466,7 +466,7 @@
     "name": "awesome",
     "owner": "ecosyste-ms",
     "url": "https://github.com/ecosyste-ms/awesome",
-    "stars": 105,
+    "stars": 104,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -605,17 +605,6 @@
     "clone_url": "https://github.com/eiroca/awesome-list.git"
   },
   {
-    "repository_full_name": "tribixbite/awesome",
-    "name": "awesome",
-    "owner": "tribixbite",
-    "url": "https://github.com/tribixbite/awesome",
-    "stars": 82,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/tribixbite/awesome.git"
-  },
-  {
     "repository_full_name": "open-data-science/awesome",
     "name": "awesome",
     "owner": "open-data-science",
@@ -625,6 +614,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/open-data-science/awesome.git"
+  },
+  {
+    "repository_full_name": "tribixbite/awesome",
+    "name": "awesome",
+    "owner": "tribixbite",
+    "url": "https://github.com/tribixbite/awesome",
+    "stars": 81,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/tribixbite/awesome.git"
   },
   {
     "repository_full_name": "beerandcodeteam/awesome-list",
@@ -1265,17 +1265,6 @@
     "clone_url": "https://github.com/loveshell/awesome-list.git"
   },
   {
-    "repository_full_name": "xathrya/awesome-list",
-    "name": "awesome-list",
-    "owner": "xathrya",
-    "url": "https://github.com/xathrya/awesome-list",
-    "stars": 7,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/xathrya/awesome-list.git"
-  },
-  {
     "repository_full_name": "00xZEROx00/awesome-list",
     "name": "awesome-list",
     "owner": "00xZEROx00",
@@ -1307,6 +1296,17 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/irisnet/awesome.git"
+  },
+  {
+    "repository_full_name": "xathrya/awesome-list",
+    "name": "awesome-list",
+    "owner": "xathrya",
+    "url": "https://github.com/xathrya/awesome-list",
+    "stars": 6,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/xathrya/awesome-list.git"
   },
   {
     "repository_full_name": "axone-protocol/awesome",
@@ -1483,17 +1483,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/gpproton/awesome-list.git"
-  },
-  {
-    "repository_full_name": "Jieyab89/awesome-list",
-    "name": "awesome-list",
-    "owner": "Jieyab89",
-    "url": "https://github.com/Jieyab89/awesome-list",
-    "stars": 2,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/Jieyab89/awesome-list.git"
   },
   {
     "repository_full_name": "OffensiveBrute/awesome-list",
@@ -1736,6 +1725,17 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/JDWILSON80/awesome-list.git"
+  },
+  {
+    "repository_full_name": "Jieyab89/awesome-list",
+    "name": "awesome-list",
+    "owner": "Jieyab89",
+    "url": "https://github.com/Jieyab89/awesome-list",
+    "stars": 1,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/Jieyab89/awesome-list.git"
   },
   {
     "repository_full_name": "JoeKarow/awesome-list",
