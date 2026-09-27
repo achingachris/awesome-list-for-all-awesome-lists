@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 510887,
+    "stars": 511137,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4197,
+    "stars": 4198,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -638,6 +638,17 @@
     "clone_url": "https://github.com/beerandcodeteam/awesome-list.git"
   },
   {
+    "repository_full_name": "tomatophp/awesome",
+    "name": "awesome",
+    "owner": "tomatophp",
+    "url": "https://github.com/tomatophp/awesome",
+    "stars": 79,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/tomatophp/awesome.git"
+  },
+  {
     "repository_full_name": "simonecorsi/awesome",
     "name": "awesome",
     "owner": "simonecorsi",
@@ -647,17 +658,6 @@
     "archived": true,
     "default_branch": "develop",
     "clone_url": "https://github.com/simonecorsi/awesome.git"
-  },
-  {
-    "repository_full_name": "tomatophp/awesome",
-    "name": "awesome",
-    "owner": "tomatophp",
-    "url": "https://github.com/tomatophp/awesome",
-    "stars": 78,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/tomatophp/awesome.git"
   },
   {
     "repository_full_name": "jhealy/awesome",
