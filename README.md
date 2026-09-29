@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **101** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-09-28**
+- Last updated: **2026-09-29**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 511,961 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,966 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 512,183 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,968 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,532 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,202 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,204 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,726 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,755 |
@@ -27,7 +27,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,047 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 770 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
-| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 534 |
+| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 536 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 448 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 416 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
