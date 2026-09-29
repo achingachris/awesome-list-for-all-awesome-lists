@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 512,183 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 512,389 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,968 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,532 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,204 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,207 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,726 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,755 |
@@ -195,7 +195,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [0xbaubau/awesome-list](https://github.com/0xbaubau/awesome-list) | 0xbaubau | 0 |
 | [0xSojalSec/awesome-list](https://github.com/0xSojalSec/awesome-list) | 0xSojalSec | 0 |
 | [123wangpengwei/awesome-list](https://github.com/123wangpengwei/awesome-list) | 123wangpengwei | 0 |
-| [1ikenna/awesome-list](https://github.com/1ikenna/awesome-list) | 1ikenna | 0 |
 | [1parmsingh/awesome-list](https://github.com/1parmsingh/awesome-list) | 1parmsingh | 0 |
 | [2733284198/awesome-list](https://github.com/2733284198/awesome-list) | 2733284198 | 0 |
 | [2scotoyoumu/awesome-list](https://github.com/2scotoyoumu/awesome-list) | 2scotoyoumu | 0 |
@@ -357,6 +356,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ekadatskii/awesome-list](https://github.com/ekadatskii/awesome-list) | ekadatskii | 0 |
 | [Element2023H/awesome-list](https://github.com/Element2023H/awesome-list) | Element2023H | 0 |
 | [Endrickk/awesome-list](https://github.com/Endrickk/awesome-list) | Endrickk | 0 |
+| [eneikenna/awesome-list](https://github.com/eneikenna/awesome-list) | eneikenna | 0 |
 | [enesilhaydin/awesome-list](https://github.com/enesilhaydin/awesome-list) | enesilhaydin | 0 |
 | [engineeringpenguins/Awesome-List](https://github.com/engineeringpenguins/Awesome-List) | engineeringpenguins | 0 |
 | [EnidPinxit/awesome-list](https://github.com/EnidPinxit/awesome-list) | EnidPinxit | 0 |
