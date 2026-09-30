@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 512389,
+    "stars": 512631,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -48,7 +48,7 @@
     "name": "awesome",
     "owner": "chartjs",
     "url": "https://github.com/chartjs/awesome",
-    "stars": 2726,
+    "stars": 2727,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -301,7 +301,7 @@
     "name": "awesome",
     "owner": "modrinth",
     "url": "https://github.com/modrinth/awesome",
-    "stars": 200,
+    "stars": 201,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -3751,17 +3751,6 @@
     "clone_url": "https://github.com/Endrickk/awesome-list.git"
   },
   {
-    "repository_full_name": "eneikenna/awesome-list",
-    "name": "awesome-list",
-    "owner": "eneikenna",
-    "url": "https://github.com/eneikenna/awesome-list",
-    "stars": 0,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/eneikenna/awesome-list.git"
-  },
-  {
     "repository_full_name": "enesilhaydin/awesome-list",
     "name": "awesome-list",
     "owner": "enesilhaydin",
@@ -4431,6 +4420,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/ijunjie/awesome-list.git"
+  },
+  {
+    "repository_full_name": "ikenna-ene/awesome-list",
+    "name": "awesome-list",
+    "owner": "ikenna-ene",
+    "url": "https://github.com/ikenna-ene/awesome-list",
+    "stars": 0,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/ikenna-ene/awesome-list.git"
   },
   {
     "repository_full_name": "ilake/awesome-list",
