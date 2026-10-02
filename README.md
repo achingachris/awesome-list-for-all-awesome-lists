@@ -4,9 +4,9 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **794 repositories total**
+- **793 repositories total**
 - **101** named `awesome`
-- **693** named `awesome-list`
+- **692** named `awesome-list`
 - Last updated: **2026-10-02**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 513,454 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 513,674 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,967 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,533 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,208 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,532 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,210 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,727 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,755 |
@@ -125,7 +125,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [okp4/awesome](https://github.com/okp4/awesome) _(archived)_ | okp4 | 15 |
 | [influxdata/awesome](https://github.com/influxdata/awesome) | influxdata | 14 |
 | [mgkid3310/AWESome](https://github.com/mgkid3310/AWESome) | mgkid3310 | 14 |
-| [bikramtuladhar/awesome-list](https://github.com/bikramtuladhar/awesome-list) | bikramtuladhar | 13 |
+| [bikramtuladhar/awesome-list](https://github.com/bikramtuladhar/awesome-list) | bikramtuladhar | 12 |
 | [xingshaocheng/awesome-list](https://github.com/xingshaocheng/awesome-list) | xingshaocheng | 12 |
 | [mr-ruhid/awesome-list](https://github.com/mr-ruhid/awesome-list) | mr-ruhid | 11 |
 | [JingwenTian/awesome-list](https://github.com/JingwenTian/awesome-list) | JingwenTian | 9 |
@@ -220,7 +220,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ajaypachpande/awesome-list](https://github.com/ajaypachpande/awesome-list) | ajaypachpande | 0 |
 | [Al-Hazar/awesome-list](https://github.com/Al-Hazar/awesome-list) | Al-Hazar | 0 |
 | [albertogomesdasilva/awesome-list](https://github.com/albertogomesdasilva/awesome-list) | albertogomesdasilva | 0 |
-| [alert90/awesome-list](https://github.com/alert90/awesome-list) | alert90 | 0 |
 | [AlexMon0/awesome-list](https://github.com/AlexMon0/awesome-list) | AlexMon0 | 0 |
 | [alkevin/awesome-list](https://github.com/alkevin/awesome-list) | alkevin | 0 |
 | [alpertungax1/awesome-list](https://github.com/alpertungax1/awesome-list) | alpertungax1 | 0 |
