@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **793 repositories total**
 - **101** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-10-02**
+- Last updated: **2026-10-03**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,21 +15,21 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 513,674 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 513,862 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,967 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,532 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,210 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,533 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,211 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,727 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,755 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,090 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,048 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 769 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 536 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 448 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 416 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 417 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 350 |
