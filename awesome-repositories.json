@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 513862,
+    "stars": 514059,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5533,
+    "stars": 5534,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -682,6 +682,17 @@
     "clone_url": "https://github.com/Senzing/awesome.git"
   },
   {
+    "repository_full_name": "pghacking/awesome",
+    "name": "awesome",
+    "owner": "pghacking",
+    "url": "https://github.com/pghacking/awesome",
+    "stars": 58,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/pghacking/awesome.git"
+  },
+  {
     "repository_full_name": "ceramicnetwork/awesome",
     "name": "awesome",
     "owner": "ceramicnetwork",
@@ -691,17 +702,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/ceramicnetwork/awesome.git"
-  },
-  {
-    "repository_full_name": "pghacking/awesome",
-    "name": "awesome",
-    "owner": "pghacking",
-    "url": "https://github.com/pghacking/awesome",
-    "stars": 57,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/pghacking/awesome.git"
   },
   {
     "repository_full_name": "lisniuse/awesome",

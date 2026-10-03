@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 513,862 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 514,059 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,967 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,533 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,534 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,211 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,727 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
@@ -77,8 +77,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [simonecorsi/awesome](https://github.com/simonecorsi/awesome) _(archived)_ | simonecorsi | 78 |
 | [jhealy/awesome](https://github.com/jhealy/awesome) | jhealy | 68 |
 | [Senzing/awesome](https://github.com/Senzing/awesome) | Senzing | 67 |
+| [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 58 |
 | [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) | ceramicnetwork | 57 |
-| [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 57 |
 | [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 56 |
 | [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 53 |
 | [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 50 |
