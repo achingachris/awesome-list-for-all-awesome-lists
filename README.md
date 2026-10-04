@@ -4,10 +4,10 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **793 repositories total**
+- **794 repositories total**
 - **101** named `awesome`
-- **692** named `awesome-list`
-- Last updated: **2026-10-03**
+- **693** named `awesome-list`
+- Last updated: **2026-10-04**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 514,059 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,967 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,534 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,211 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,727 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 514,386 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,968 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,535 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,213 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,726 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,755 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
@@ -615,6 +615,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [pipo-cyber/awesome-list](https://github.com/pipo-cyber/awesome-list) | pipo-cyber | 0 |
 | [PippenYuan/awesome-list](https://github.com/PippenYuan/awesome-list) | PippenYuan | 0 |
 | [PiRwot/awesome-list](https://github.com/PiRwot/awesome-list) | PiRwot | 0 |
+| [pkhamre/awesome-list](https://github.com/pkhamre/awesome-list) | pkhamre | 0 |
 | [pradeepngupta/awesome-list](https://github.com/pradeepngupta/awesome-list) | pradeepngupta | 0 |
 | [pradhyu/awesome-list](https://github.com/pradhyu/awesome-list) | pradhyu | 0 |
 | [Prafull37/awesome-list](https://github.com/Prafull37/awesome-list) | Prafull37 | 0 |
