@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 514605,
+    "stars": 514893,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6968,
+    "stars": 6970,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -48,7 +48,7 @@
     "name": "awesome",
     "owner": "chartjs",
     "url": "https://github.com/chartjs/awesome",
-    "stars": 2726,
+    "stars": 2725,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -59,7 +59,7 @@
     "name": "awesome",
     "owner": "rollup",
     "url": "https://github.com/rollup/awesome",
-    "stars": 2709,
+    "stars": 2710,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -169,7 +169,7 @@
     "name": "awesome",
     "owner": "better-auth",
     "url": "https://github.com/better-auth/awesome",
-    "stars": 394,
+    "stars": 393,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -411,7 +411,7 @@
     "name": "awesome",
     "owner": "lencx",
     "url": "https://github.com/lencx/awesome",
-    "stars": 146,
+    "stars": 145,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -506,6 +506,17 @@
     "clone_url": "https://github.com/tendermint/awesome.git"
   },
   {
+    "repository_full_name": "skyrocknroll/awesome",
+    "name": "awesome",
+    "owner": "skyrocknroll",
+    "url": "https://github.com/skyrocknroll/awesome",
+    "stars": 92,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/skyrocknroll/awesome.git"
+  },
+  {
     "repository_full_name": "shinokada/awesome",
     "name": "awesome",
     "owner": "shinokada",
@@ -515,17 +526,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/shinokada/awesome.git"
-  },
-  {
-    "repository_full_name": "skyrocknroll/awesome",
-    "name": "awesome",
-    "owner": "skyrocknroll",
-    "url": "https://github.com/skyrocknroll/awesome",
-    "stars": 91,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/skyrocknroll/awesome.git"
   },
   {
     "repository_full_name": "webusb/awesome",
@@ -682,17 +682,6 @@
     "clone_url": "https://github.com/Senzing/awesome.git"
   },
   {
-    "repository_full_name": "pghacking/awesome",
-    "name": "awesome",
-    "owner": "pghacking",
-    "url": "https://github.com/pghacking/awesome",
-    "stars": 58,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/pghacking/awesome.git"
-  },
-  {
     "repository_full_name": "ceramicnetwork/awesome",
     "name": "awesome",
     "owner": "ceramicnetwork",
@@ -702,6 +691,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/ceramicnetwork/awesome.git"
+  },
+  {
+    "repository_full_name": "pghacking/awesome",
+    "name": "awesome",
+    "owner": "pghacking",
+    "url": "https://github.com/pghacking/awesome",
+    "stars": 57,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/pghacking/awesome.git"
   },
   {
     "repository_full_name": "lisniuse/awesome",
