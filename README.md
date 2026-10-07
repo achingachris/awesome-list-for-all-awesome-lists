@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **101** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-10-06**
+- Last updated: **2026-10-07**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,21 +15,21 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 515,586 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 515,833 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,968 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,534 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,214 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,215 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,726 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,047 |
-| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 768 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,048 |
+| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 769 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 536 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 448 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 417 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 418 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 350 |
@@ -38,8 +38,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 265 |
+| [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 251 |
-| [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 250 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 210 |
 | [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 201 |
@@ -61,7 +61,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 103 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 100 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 96 |
-| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 92 |
+| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 93 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 89 |
