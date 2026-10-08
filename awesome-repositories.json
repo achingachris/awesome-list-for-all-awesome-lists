@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 516044,
+    "stars": 516315,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6967,
+    "stars": 6969,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4214,
+    "stars": 4215,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -543,7 +543,7 @@
     "name": "awesome",
     "owner": "bangumi-data",
     "url": "https://github.com/bangumi-data/awesome",
-    "stars": 89,
+    "stars": 90,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1221,6 +1221,17 @@
     "clone_url": "https://github.com/bikramtuladhar/awesome-list.git"
   },
   {
+    "repository_full_name": "mr-ruhid/awesome-list",
+    "name": "awesome-list",
+    "owner": "mr-ruhid",
+    "url": "https://github.com/mr-ruhid/awesome-list",
+    "stars": 12,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/mr-ruhid/awesome-list.git"
+  },
+  {
     "repository_full_name": "xingshaocheng/awesome-list",
     "name": "awesome-list",
     "owner": "xingshaocheng",
@@ -1230,17 +1241,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/xingshaocheng/awesome-list.git"
-  },
-  {
-    "repository_full_name": "mr-ruhid/awesome-list",
-    "name": "awesome-list",
-    "owner": "mr-ruhid",
-    "url": "https://github.com/mr-ruhid/awesome-list",
-    "stars": 11,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/mr-ruhid/awesome-list.git"
   },
   {
     "repository_full_name": "JingwenTian/awesome-list",

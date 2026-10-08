@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **794 repositories total**
 - **101** named `awesome`
 - **693** named `awesome-list`
-- Last updated: **2026-10-07**
+- Last updated: **2026-10-08**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 516,044 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,967 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 516,315 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,969 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,534 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,214 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,215 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,727 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
@@ -64,7 +64,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 94 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 91 |
-| [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 89 |
+| [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 90 |
 | [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 89 |
 | [suyear/awesome](https://github.com/suyear/awesome) | suyear | 85 |
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 84 |
@@ -126,8 +126,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [influxdata/awesome](https://github.com/influxdata/awesome) | influxdata | 14 |
 | [mgkid3310/AWESome](https://github.com/mgkid3310/AWESome) | mgkid3310 | 14 |
 | [bikramtuladhar/awesome-list](https://github.com/bikramtuladhar/awesome-list) | bikramtuladhar | 12 |
+| [mr-ruhid/awesome-list](https://github.com/mr-ruhid/awesome-list) | mr-ruhid | 12 |
 | [xingshaocheng/awesome-list](https://github.com/xingshaocheng/awesome-list) | xingshaocheng | 12 |
-| [mr-ruhid/awesome-list](https://github.com/mr-ruhid/awesome-list) | mr-ruhid | 11 |
 | [JingwenTian/awesome-list](https://github.com/JingwenTian/awesome-list) | JingwenTian | 9 |
 | [loveshell/awesome-list](https://github.com/loveshell/awesome-list) | loveshell | 9 |
 | [00xZEROx00/awesome-list](https://github.com/00xZEROx00/awesome-list) | 00xZEROx00 | 6 |
