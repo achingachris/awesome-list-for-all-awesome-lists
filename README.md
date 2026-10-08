@@ -15,21 +15,21 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 516,315 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 516,291 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,969 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,534 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,215 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,217 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,727 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,048 |
-| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 769 |
+| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 768 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 536 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 448 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 418 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 419 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 350 |
@@ -75,7 +75,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [beerandcodeteam/awesome-list](https://github.com/beerandcodeteam/awesome-list) | beerandcodeteam | 80 |
 | [tomatophp/awesome](https://github.com/tomatophp/awesome) | tomatophp | 79 |
 | [simonecorsi/awesome](https://github.com/simonecorsi/awesome) _(archived)_ | simonecorsi | 78 |
-| [jhealy/awesome](https://github.com/jhealy/awesome) | jhealy | 70 |
+| [jhealy/awesome](https://github.com/jhealy/awesome) | jhealy | 71 |
 | [Senzing/awesome](https://github.com/Senzing/awesome) | Senzing | 67 |
 | [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) | ceramicnetwork | 57 |
 | [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 57 |
