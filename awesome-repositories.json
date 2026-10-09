@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 516555,
+    "stars": 516715,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -48,7 +48,7 @@
     "name": "awesome",
     "owner": "chartjs",
     "url": "https://github.com/chartjs/awesome",
-    "stars": 2727,
+    "stars": 2726,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -136,7 +136,7 @@
     "name": "awesome-list",
     "owner": "ityouknow",
     "url": "https://github.com/ityouknow/awesome-list",
-    "stars": 536,
+    "stars": 537,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -770,6 +770,17 @@
     "clone_url": "https://github.com/evmos/awesome.git"
   },
   {
+    "repository_full_name": "ItIsMeCall911/Awesome",
+    "name": "Awesome",
+    "owner": "ItIsMeCall911",
+    "url": "https://github.com/ItIsMeCall911/Awesome",
+    "stars": 47,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/ItIsMeCall911/Awesome.git"
+  },
+  {
     "repository_full_name": "FightingDesign/awesome",
     "name": "awesome",
     "owner": "FightingDesign",
@@ -779,17 +790,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/FightingDesign/awesome.git"
-  },
-  {
-    "repository_full_name": "ItIsMeCall911/Awesome",
-    "name": "Awesome",
-    "owner": "ItIsMeCall911",
-    "url": "https://github.com/ItIsMeCall911/Awesome",
-    "stars": 46,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/ItIsMeCall911/Awesome.git"
   },
   {
     "repository_full_name": "osmosis-labs/awesome",

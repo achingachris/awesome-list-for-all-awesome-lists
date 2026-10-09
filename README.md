@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 516,555 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 516,715 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,969 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,534 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,218 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,727 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,726 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
@@ -27,7 +27,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,048 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 768 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
-| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 536 |
+| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 448 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 419 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
@@ -85,8 +85,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
 | [nodgear/Awesome](https://github.com/nodgear/Awesome) | nodgear | 49 |
 | [evmos/awesome](https://github.com/evmos/awesome) _(archived)_ | evmos | 47 |
+| [ItIsMeCall911/Awesome](https://github.com/ItIsMeCall911/Awesome) | ItIsMeCall911 | 47 |
 | [FightingDesign/awesome](https://github.com/FightingDesign/awesome) | FightingDesign | 46 |
-| [ItIsMeCall911/Awesome](https://github.com/ItIsMeCall911/Awesome) | ItIsMeCall911 | 46 |
 | [osmosis-labs/awesome](https://github.com/osmosis-labs/awesome) _(archived)_ | osmosis-labs | 45 |
 | [meirwah/awesome](https://github.com/meirwah/awesome) | meirwah | 44 |
 | [devsapp/awesome](https://github.com/devsapp/awesome) | devsapp | 43 |
