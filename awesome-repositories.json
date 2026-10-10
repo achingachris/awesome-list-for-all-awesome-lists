@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 516977,
+    "stars": 517172,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -246,7 +246,7 @@
     "name": "awesome",
     "owner": "firasuke",
     "url": "https://github.com/firasuke/awesome",
-    "stars": 265,
+    "stars": 266,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -1089,17 +1089,6 @@
     "clone_url": "https://github.com/okiwi/awesome.git"
   },
   {
-    "repository_full_name": "myesn/awesome",
-    "name": "awesome",
-    "owner": "myesn",
-    "url": "https://github.com/myesn/awesome",
-    "stars": 19,
-    "visibility": "public",
-    "archived": true,
-    "default_branch": "main",
-    "clone_url": "https://github.com/myesn/awesome.git"
-  },
-  {
     "repository_full_name": "SmartBear/awesome",
     "name": "awesome",
     "owner": "SmartBear",
@@ -1120,6 +1109,17 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/johnhany/awesome-list.git"
+  },
+  {
+    "repository_full_name": "myesn/awesome",
+    "name": "awesome",
+    "owner": "myesn",
+    "url": "https://github.com/myesn/awesome",
+    "stars": 18,
+    "visibility": "public",
+    "archived": true,
+    "default_branch": "main",
+    "clone_url": "https://github.com/myesn/awesome.git"
   },
   {
     "repository_full_name": "CENL-Network-Group-AI/awesome-list",

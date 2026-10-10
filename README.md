@@ -15,7 +15,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 516,977 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 517,172 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,969 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,536 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,218 |
@@ -37,7 +37,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 336 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
-| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 265 |
+| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 266 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 251 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
@@ -114,9 +114,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [finary-wealth/awesome](https://github.com/finary-wealth/awesome) | finary-wealth | 20 |
 | [mdn/awesome](https://github.com/mdn/awesome) | mdn | 20 |
 | [okiwi/awesome](https://github.com/okiwi/awesome) | okiwi | 20 |
-| [myesn/awesome](https://github.com/myesn/awesome) _(archived)_ | myesn | 19 |
 | [SmartBear/awesome](https://github.com/SmartBear/awesome) _(archived)_ | SmartBear | 19 |
 | [johnhany/awesome-list](https://github.com/johnhany/awesome-list) | johnhany | 18 |
+| [myesn/awesome](https://github.com/myesn/awesome) _(archived)_ | myesn | 18 |
 | [CENL-Network-Group-AI/awesome-list](https://github.com/CENL-Network-Group-AI/awesome-list) | CENL-Network-Group-AI | 17 |
 | [zhuyongqing/Awesome](https://github.com/zhuyongqing/Awesome) | zhuyongqing | 17 |
 | [johankson/awesome](https://github.com/johankson/awesome) | johankson | 16 |
