@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 517,429 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,969 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,536 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 517,624 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,970 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,537 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,216 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,726 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
@@ -207,7 +207,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [a794581572/awesome-list](https://github.com/a794581572/awesome-list) | a794581572 | 0 |
 | [A9xYau/awesome-list](https://github.com/A9xYau/awesome-list) | A9xYau | 0 |
 | [aafonsomdev/awesome-list](https://github.com/aafonsomdev/awesome-list) | aafonsomdev | 0 |
-| [aahmed646/awesome-list](https://github.com/aahmed646/awesome-list) | aahmed646 | 0 |
+| [aahmed646test/awesome-list](https://github.com/aahmed646test/awesome-list) | aahmed646test | 0 |
 | [abirmehmed/awesome-list](https://github.com/abirmehmed/awesome-list) | abirmehmed | 0 |
 | [aburumman/awesome-list](https://github.com/aburumman/awesome-list) | aburumman | 0 |
 | [AD404-0/awesome-list](https://github.com/AD404-0/awesome-list) | AD404-0 | 0 |
