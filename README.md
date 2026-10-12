@@ -4,10 +4,10 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **794 repositories total**
+- **793 repositories total**
 - **101** named `awesome`
-- **693** named `awesome-list`
-- Last updated: **2026-10-11**
+- **692** named `awesome-list`
+- Last updated: **2026-10-12**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,17 +15,17 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 517,624 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,970 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 517,899 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,971 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,537 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,216 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,217 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,726 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,048 |
-| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 768 |
+| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 769 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 448 |
@@ -38,8 +38,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 266 |
+| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 252 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
-| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 251 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 210 |
 | [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 201 |
@@ -48,7 +48,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 179 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
-| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 173 |
+| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 174 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 173 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 169 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
@@ -57,7 +57,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 125 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 104 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 105 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 103 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 100 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 96 |
@@ -155,7 +155,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [TIDES-transit/awesome-list](https://github.com/TIDES-transit/awesome-list) | TIDES-transit | 2 |
 | [vim-sc/awesome-list](https://github.com/vim-sc/awesome-list) | vim-sc | 2 |
 | [0xroot-bf/awesome-list](https://github.com/0xroot-bf/awesome-list) | 0xroot-bf | 1 |
-| [akdmjeau-eng/awesome-list](https://github.com/akdmjeau-eng/awesome-list) | akdmjeau-eng | 1 |
 | [altomator/awesome-list](https://github.com/altomator/awesome-list) | altomator | 1 |
 | [bassim00/awesome-list](https://github.com/bassim00/awesome-list) | bassim00 | 1 |
 | [carcinocron/awesome-list](https://github.com/carcinocron/awesome-list) | carcinocron | 1 |
