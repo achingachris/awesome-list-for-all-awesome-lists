@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 517,899 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 518,146 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,971 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,537 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,217 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,218 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,726 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
@@ -58,7 +58,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 125 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 105 |
-| [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 103 |
+| [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 100 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 96 |
 | [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 94 |
