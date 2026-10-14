@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **793 repositories total**
 - **101** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-10-13**
+- Last updated: **2026-10-14**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,8 +15,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 518,603 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,973 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 518,830 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,974 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,538 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,218 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,728 |
@@ -28,7 +28,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 769 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
-| [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 448 |
+| [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 449 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 419 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
@@ -42,7 +42,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 210 |
-| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 201 |
+| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 202 |
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 197 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
@@ -81,7 +81,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 57 |
 | [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 56 |
 | [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 53 |
-| [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 50 |
+| [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 51 |
 | [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
 | [nodgear/Awesome](https://github.com/nodgear/Awesome) | nodgear | 49 |
 | [evmos/awesome](https://github.com/evmos/awesome) _(archived)_ | evmos | 47 |
