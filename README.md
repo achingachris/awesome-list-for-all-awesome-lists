@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **793 repositories total**
 - **101** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-10-14**
+- Last updated: **2026-10-15**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 518,942 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 519,181 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,975 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,537 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,218 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,728 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,536 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,219 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,729 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
@@ -38,7 +38,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 266 |
-| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 252 |
+| [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 253 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 210 |
