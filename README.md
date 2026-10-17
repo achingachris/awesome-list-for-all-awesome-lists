@@ -15,13 +15,13 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 520,146 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 520,370 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,979 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,537 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,536 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,222 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,728 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,708 |
-| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
+| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,049 |
@@ -80,7 +80,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ceramicnetwork/awesome](https://github.com/ceramicnetwork/awesome) | ceramicnetwork | 57 |
 | [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 57 |
 | [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 56 |
-| [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 53 |
+| [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 54 |
 | [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 51 |
 | [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
 | [nodgear/Awesome](https://github.com/nodgear/Awesome) | nodgear | 49 |
