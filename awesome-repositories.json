@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 520370,
+    "stars": 520652,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6979,
+    "stars": 6981,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4222,
+    "stars": 4224,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -103,7 +103,7 @@
     "name": "awesome",
     "owner": "YOURLS",
     "url": "https://github.com/YOURLS/awesome",
-    "stars": 1049,
+    "stars": 1050,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -495,6 +495,17 @@
     "clone_url": "https://github.com/proudcloud/awesome.git"
   },
   {
+    "repository_full_name": "skyrocknroll/awesome",
+    "name": "awesome",
+    "owner": "skyrocknroll",
+    "url": "https://github.com/skyrocknroll/awesome",
+    "stars": 96,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/skyrocknroll/awesome.git"
+  },
+  {
     "repository_full_name": "tendermint/awesome",
     "name": "awesome",
     "owner": "tendermint",
@@ -504,17 +515,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/tendermint/awesome.git"
-  },
-  {
-    "repository_full_name": "skyrocknroll/awesome",
-    "name": "awesome",
-    "owner": "skyrocknroll",
-    "url": "https://github.com/skyrocknroll/awesome",
-    "stars": 95,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/skyrocknroll/awesome.git"
   },
   {
     "repository_full_name": "shinokada/awesome",
@@ -1265,17 +1265,6 @@
     "clone_url": "https://github.com/loveshell/awesome-list.git"
   },
   {
-    "repository_full_name": "00xZEROx00/awesome-list",
-    "name": "awesome-list",
-    "owner": "00xZEROx00",
-    "url": "https://github.com/00xZEROx00/awesome-list",
-    "stars": 6,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/00xZEROx00/awesome-list.git"
-  },
-  {
     "repository_full_name": "chenglijunnanduo/awesome-list",
     "name": "awesome-list",
     "owner": "chenglijunnanduo",
@@ -1307,6 +1296,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/xathrya/awesome-list.git"
+  },
+  {
+    "repository_full_name": "00xZEROx00/awesome-list",
+    "name": "awesome-list",
+    "owner": "00xZEROx00",
+    "url": "https://github.com/00xZEROx00/awesome-list",
+    "stars": 5,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/00xZEROx00/awesome-list.git"
   },
   {
     "repository_full_name": "axone-protocol/awesome",
@@ -1483,6 +1483,17 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/gpproton/awesome-list.git"
+  },
+  {
+    "repository_full_name": "itkpi/awesome-list",
+    "name": "awesome-list",
+    "owner": "itkpi",
+    "url": "https://github.com/itkpi/awesome-list",
+    "stars": 2,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/itkpi/awesome-list.git"
   },
   {
     "repository_full_name": "OffensiveBrute/awesome-list",
@@ -1692,17 +1703,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/isaccanedo/Awesome-List.git"
-  },
-  {
-    "repository_full_name": "itkpi/awesome-list",
-    "name": "awesome-list",
-    "owner": "itkpi",
-    "url": "https://github.com/itkpi/awesome-list",
-    "stars": 1,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/itkpi/awesome-list.git"
   },
   {
     "repository_full_name": "JDWILSON80/awesome-list",
