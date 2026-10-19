@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **793 repositories total**
 - **101** named `awesome`
 - **692** named `awesome-list`
-- Last updated: **2026-10-18**
+- Last updated: **2026-10-19**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,21 +15,21 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 520,877 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,981 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 521,163 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,982 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,538 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,226 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,227 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,729 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,091 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,088 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,050 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,051 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 769 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 449 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 418 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 419 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 350 |
@@ -47,8 +47,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 179 |
+| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 177 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
-| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 175 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 173 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 169 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
@@ -57,9 +57,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 125 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 108 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 109 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
-| [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 100 |
+| [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 99 |
 | [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 96 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 96 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
