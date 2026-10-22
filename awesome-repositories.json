@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 522565,
+    "stars": 522958,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -26,7 +26,7 @@
     "name": "awesome",
     "owner": "nuxt",
     "url": "https://github.com/nuxt/awesome",
-    "stars": 5538,
+    "stars": 5537,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -345,7 +345,7 @@
     "name": "Awesome",
     "owner": "Am0rphous",
     "url": "https://github.com/Am0rphous/Awesome",
-    "stars": 180,
+    "stars": 181,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1265,6 +1265,17 @@
     "clone_url": "https://github.com/loveshell/awesome-list.git"
   },
   {
+    "repository_full_name": "00xZEROx00/awesome-list",
+    "name": "awesome-list",
+    "owner": "00xZEROx00",
+    "url": "https://github.com/00xZEROx00/awesome-list",
+    "stars": 6,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/00xZEROx00/awesome-list.git"
+  },
+  {
     "repository_full_name": "chenglijunnanduo/awesome-list",
     "name": "awesome-list",
     "owner": "chenglijunnanduo",
@@ -1296,17 +1307,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/xathrya/awesome-list.git"
-  },
-  {
-    "repository_full_name": "00xZEROx00/awesome-list",
-    "name": "awesome-list",
-    "owner": "00xZEROx00",
-    "url": "https://github.com/00xZEROx00/awesome-list",
-    "stars": 5,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/00xZEROx00/awesome-list.git"
   },
   {
     "repository_full_name": "axone-protocol/awesome",

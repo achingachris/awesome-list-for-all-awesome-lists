@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 522,565 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 522,958 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,983 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,538 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,537 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,233 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,731 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
@@ -46,7 +46,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 197 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
-| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 180 |
+| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 181 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 179 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 173 |
@@ -130,10 +130,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [xingshaocheng/awesome-list](https://github.com/xingshaocheng/awesome-list) | xingshaocheng | 12 |
 | [JingwenTian/awesome-list](https://github.com/JingwenTian/awesome-list) | JingwenTian | 9 |
 | [loveshell/awesome-list](https://github.com/loveshell/awesome-list) | loveshell | 9 |
+| [00xZEROx00/awesome-list](https://github.com/00xZEROx00/awesome-list) | 00xZEROx00 | 6 |
 | [chenglijunnanduo/awesome-list](https://github.com/chenglijunnanduo/awesome-list) | chenglijunnanduo | 6 |
 | [irisnet/awesome](https://github.com/irisnet/awesome) | irisnet | 6 |
 | [xathrya/awesome-list](https://github.com/xathrya/awesome-list) | xathrya | 6 |
-| [00xZEROx00/awesome-list](https://github.com/00xZEROx00/awesome-list) | 00xZEROx00 | 5 |
 | [axone-protocol/awesome](https://github.com/axone-protocol/awesome) | axone-protocol | 5 |
 | [blogwy/awesome-list](https://github.com/blogwy/awesome-list) | blogwy | 5 |
 | [code4everything/awesome-list](https://github.com/code4everything/awesome-list) | code4everything | 5 |
