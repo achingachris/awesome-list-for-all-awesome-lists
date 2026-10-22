@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **792 repositories total**
 - **101** named `awesome`
 - **691** named `awesome-list`
-- Last updated: **2026-10-21**
+- Last updated: **2026-10-22**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 522,305 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 522,565 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,983 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,538 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,234 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,233 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,731 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
@@ -30,7 +30,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 449 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 419 |
-| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 394 |
+| [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 395 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 350 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 337 |
@@ -46,7 +46,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 197 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
-| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 179 |
+| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 180 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 179 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 173 |
@@ -55,7 +55,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 141 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
-| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 125 |
+| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 126 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
 | [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 109 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
