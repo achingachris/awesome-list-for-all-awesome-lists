@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **792 repositories total**
 - **101** named `awesome`
 - **691** named `awesome-list`
-- Last updated: **2026-10-22**
+- Last updated: **2026-10-23**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 522,958 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 523,324 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,983 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,537 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,233 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,235 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,731 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
