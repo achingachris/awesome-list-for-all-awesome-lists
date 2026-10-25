@@ -4,10 +4,10 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **792 repositories total**
+- **791 repositories total**
 - **101** named `awesome`
-- **691** named `awesome-list`
-- Last updated: **2026-10-24**
+- **690** named `awesome-list`
+- Last updated: **2026-10-25**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,16 +15,16 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 524,051 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 524,339 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,981 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,538 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,539 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,239 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,731 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,732 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,093 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,087 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,050 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,049 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 769 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
@@ -718,7 +718,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [tanjin861117/awesome-list](https://github.com/tanjin861117/awesome-list) | tanjin861117 | 0 |
 | [Tank23x0/awesome-list](https://github.com/Tank23x0/awesome-list) | Tank23x0 | 0 |
 | [tapate/awesome-list](https://github.com/tapate/awesome-list) | tapate | 0 |
-| [TataIntvuPlan/awesome-list](https://github.com/TataIntvuPlan/awesome-list) | TataIntvuPlan | 0 |
 | [Tech-Save/awesome-list](https://github.com/Tech-Save/awesome-list) | Tech-Save | 0 |
 | [techcaleb/awesome-list](https://github.com/techcaleb/awesome-list) | techcaleb | 0 |
 | [Teeniv1/awesome-list](https://github.com/Teeniv1/awesome-list) | Teeniv1 | 0 |
