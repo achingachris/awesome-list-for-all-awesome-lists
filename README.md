@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **791 repositories total**
 - **101** named `awesome`
 - **690** named `awesome-list`
-- Last updated: **2026-10-27**
+- Last updated: **2026-10-28**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 525,652 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,982 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 525,967 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,980 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,542 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,249 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,251 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,734 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
@@ -27,7 +27,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,051 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 771 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
-| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 538 |
+| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 449 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 419 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 396 |
@@ -49,7 +49,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 182 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 180 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
-| [effector/awesome](https://github.com/effector/awesome) | effector | 173 |
+| [effector/awesome](https://github.com/effector/awesome) | effector | 174 |
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 169 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
