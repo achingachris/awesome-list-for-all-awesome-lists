@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 526246,
+    "stars": 526511,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4251,
+    "stars": 4249,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -81,7 +81,7 @@
     "name": "awesome",
     "owner": "alpine-collective",
     "url": "https://github.com/alpine-collective/awesome",
-    "stars": 1094,
+    "stars": 1095,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -499,7 +499,7 @@
     "name": "awesome",
     "owner": "skyrocknroll",
     "url": "https://github.com/skyrocknroll/awesome",
-    "stars": 97,
+    "stars": 98,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -759,6 +759,17 @@
     "clone_url": "https://github.com/nodgear/Awesome.git"
   },
   {
+    "repository_full_name": "ItIsMeCall911/Awesome",
+    "name": "Awesome",
+    "owner": "ItIsMeCall911",
+    "url": "https://github.com/ItIsMeCall911/Awesome",
+    "stars": 48,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/ItIsMeCall911/Awesome.git"
+  },
+  {
     "repository_full_name": "evmos/awesome",
     "name": "awesome",
     "owner": "evmos",
@@ -768,17 +779,6 @@
     "archived": true,
     "default_branch": "main",
     "clone_url": "https://github.com/evmos/awesome.git"
-  },
-  {
-    "repository_full_name": "ItIsMeCall911/Awesome",
-    "name": "Awesome",
-    "owner": "ItIsMeCall911",
-    "url": "https://github.com/ItIsMeCall911/Awesome",
-    "stars": 47,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/ItIsMeCall911/Awesome.git"
   },
   {
     "repository_full_name": "FightingDesign/awesome",

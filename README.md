@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **791 repositories total**
 - **101** named `awesome`
 - **690** named `awesome-list`
-- Last updated: **2026-10-28**
+- Last updated: **2026-10-29**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,14 +15,14 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 526,246 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 526,511 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,984 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,543 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,251 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,249 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,734 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,094 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,095 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,087 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,052 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 771 |
@@ -60,7 +60,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 110 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 99 |
-| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 97 |
+| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 98 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 96 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 92 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 92 |
@@ -84,8 +84,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 51 |
 | [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
 | [nodgear/Awesome](https://github.com/nodgear/Awesome) | nodgear | 49 |
+| [ItIsMeCall911/Awesome](https://github.com/ItIsMeCall911/Awesome) | ItIsMeCall911 | 48 |
 | [evmos/awesome](https://github.com/evmos/awesome) _(archived)_ | evmos | 47 |
-| [ItIsMeCall911/Awesome](https://github.com/ItIsMeCall911/Awesome) | ItIsMeCall911 | 47 |
 | [FightingDesign/awesome](https://github.com/FightingDesign/awesome) | FightingDesign | 46 |
 | [osmosis-labs/awesome](https://github.com/osmosis-labs/awesome) _(archived)_ | osmosis-labs | 45 |
 | [meirwah/awesome](https://github.com/meirwah/awesome) | meirwah | 44 |
