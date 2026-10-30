@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **791 repositories total**
 - **101** named `awesome`
 - **690** named `awesome-list`
-- Last updated: **2026-10-29**
+- Last updated: **2026-10-30**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,7 +15,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 526,781 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 527,080 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,984 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,543 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,250 |
