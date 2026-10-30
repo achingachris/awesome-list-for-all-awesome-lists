@@ -15,17 +15,17 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 527,080 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 527,415 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,984 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,543 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,250 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,546 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,253 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,734 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,709 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,095 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,096 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,087 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,052 |
-| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 771 |
+| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 772 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 449 |
@@ -62,7 +62,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 99 |
 | [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 98 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 96 |
-| [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 92 |
+| [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 93 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 92 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 90 |
