@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **791 repositories total**
 - **101** named `awesome`
 - **690** named `awesome-list`
-- Last updated: **2026-11-01**
+- Last updated: **2026-11-02**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,18 +15,18 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 528,522 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 529,205 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,986 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,548 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,259 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,734 |
-| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,710 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,550 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,262 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,735 |
+| [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,711 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,755 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,097 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,087 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,052 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 772 |
-| [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
+| [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 449 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 419 |
@@ -43,10 +43,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 210 |
 | [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 201 |
-| [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 197 |
+| [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 198 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
-| [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 184 |
-| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 182 |
+| [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 185 |
+| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 181 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 180 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 174 |
