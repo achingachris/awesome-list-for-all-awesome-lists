@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **790 repositories total**
 - **100** named `awesome`
 - **690** named `awesome-list`
-- Last updated: **2026-11-03**
+- Last updated: **2026-11-04**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 530,273 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 530,918 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,987 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,552 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,551 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,266 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,736 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,711 |
@@ -55,9 +55,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 141 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
-| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 126 |
+| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 127 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 120 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 116 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 117 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 104 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 99 |
 | [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 98 |
