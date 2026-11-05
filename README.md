@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 531,357 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,986 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 531,696 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,988 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,552 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,267 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,268 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,736 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,711 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
@@ -45,7 +45,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 201 |
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 197 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
-| [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 185 |
+| [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 186 |
 | [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 181 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 180 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
@@ -80,7 +80,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [pghacking/awesome](https://github.com/pghacking/awesome) | pghacking | 57 |
 | [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 56 |
 | [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 54 |
-| [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 51 |
+| [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 50 |
 | [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
 | [nodgear/Awesome](https://github.com/nodgear/Awesome) | nodgear | 49 |
 | [ItIsMeCall911/Awesome](https://github.com/ItIsMeCall911/Awesome) | ItIsMeCall911 | 48 |
