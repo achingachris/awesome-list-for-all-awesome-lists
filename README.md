@@ -15,16 +15,16 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 532,061 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,989 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 532,385 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,990 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,552 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,270 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,736 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,737 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,711 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,097 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,087 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,053 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,052 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 772 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
@@ -66,9 +66,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 92 |
 | [shinokada/awesome](https://github.com/shinokada/awesome) | shinokada | 91 |
 | [erbanku/awesome](https://github.com/erbanku/awesome) | erbanku | 89 |
+| [suyear/awesome](https://github.com/suyear/awesome) | suyear | 85 |
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 84 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |
-| [suyear/awesome](https://github.com/suyear/awesome) | suyear | 84 |
 | [eiroca/awesome-list](https://github.com/eiroca/awesome-list) | eiroca | 83 |
 | [open-data-science/awesome](https://github.com/open-data-science/awesome) | open-data-science | 81 |
 | [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 81 |

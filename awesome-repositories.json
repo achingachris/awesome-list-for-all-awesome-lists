@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 532061,
+    "stars": 532385,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 6989,
+    "stars": 6990,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -48,7 +48,7 @@
     "name": "awesome",
     "owner": "chartjs",
     "url": "https://github.com/chartjs/awesome",
-    "stars": 2736,
+    "stars": 2737,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -103,7 +103,7 @@
     "name": "awesome",
     "owner": "YOURLS",
     "url": "https://github.com/YOURLS/awesome",
-    "stars": 1053,
+    "stars": 1052,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -561,6 +561,17 @@
     "clone_url": "https://github.com/erbanku/awesome.git"
   },
   {
+    "repository_full_name": "suyear/awesome",
+    "name": "awesome",
+    "owner": "suyear",
+    "url": "https://github.com/suyear/awesome",
+    "stars": 85,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/suyear/awesome.git"
+  },
+  {
     "repository_full_name": "HyperDbg/awesome",
     "name": "awesome",
     "owner": "HyperDbg",
@@ -581,17 +592,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/seapy/awesome.git"
-  },
-  {
-    "repository_full_name": "suyear/awesome",
-    "name": "awesome",
-    "owner": "suyear",
-    "url": "https://github.com/suyear/awesome",
-    "stars": 84,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/suyear/awesome.git"
   },
   {
     "repository_full_name": "eiroca/awesome-list",
