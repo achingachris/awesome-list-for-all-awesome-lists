@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **790 repositories total**
 - **100** named `awesome`
 - **690** named `awesome-list`
-- Last updated: **2026-11-05**
+- Last updated: **2026-11-06**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 531,696 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,988 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 532,061 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,989 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,552 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,268 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,270 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,736 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,711 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
@@ -29,7 +29,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 548 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 449 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 419 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 420 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 397 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 352 |
