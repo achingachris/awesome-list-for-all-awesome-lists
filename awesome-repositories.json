@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 532765,
+    "stars": 533090,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4270,
+    "stars": 4271,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -7247,17 +7247,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/shuierya/awesome-list.git"
-  },
-  {
-    "repository_full_name": "simon-baumgaertel/awesome-list",
-    "name": "awesome-list",
-    "owner": "simon-baumgaertel",
-    "url": "https://github.com/simon-baumgaertel/awesome-list",
-    "stars": 0,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/simon-baumgaertel/awesome-list.git"
   },
   {
     "repository_full_name": "simsimhadas/awesome-list",

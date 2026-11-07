@@ -4,9 +4,9 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **790 repositories total**
+- **789 repositories total**
 - **100** named `awesome`
-- **690** named `awesome-list`
+- **689** named `awesome-list`
 - Last updated: **2026-11-07**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 532,765 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 533,090 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,990 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,552 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,270 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,271 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,736 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,712 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
@@ -674,7 +674,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [shivroy121/awesome-list](https://github.com/shivroy121/awesome-list) | shivroy121 | 0 |
 | [shoemoney/awesome-list](https://github.com/shoemoney/awesome-list) | shoemoney | 0 |
 | [shuierya/awesome-list](https://github.com/shuierya/awesome-list) | shuierya | 0 |
-| [simon-baumgaertel/awesome-list](https://github.com/simon-baumgaertel/awesome-list) | simon-baumgaertel | 0 |
 | [simsimhadas/awesome-list](https://github.com/simsimhadas/awesome-list) | simsimhadas | 0 |
 | [sjl421/awesome-list](https://github.com/sjl421/awesome-list) | sjl421 | 0 |
 | [skateforever/awesome-list](https://github.com/skateforever/awesome-list) | skateforever | 0 |
