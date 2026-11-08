@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 533,497 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,991 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,552 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,273 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 533,762 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,993 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,553 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,275 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,736 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,712 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
@@ -46,7 +46,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 197 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 186 |
-| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 181 |
+| [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) | Am0rphous | 182 |
 | [hdl/awesome](https://github.com/hdl/awesome) | hdl | 180 |
 | [janl/awesome](https://github.com/janl/awesome) | janl | 176 |
 | [effector/awesome](https://github.com/effector/awesome) | effector | 174 |
