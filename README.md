@@ -4,10 +4,10 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **789 repositories total**
+- **790 repositories total**
 - **100** named `awesome`
-- **689** named `awesome-list`
-- Last updated: **2026-11-09**
+- **690** named `awesome-list`
+- Last updated: **2026-11-10**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,19 +15,19 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 534,253 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 534,552 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,998 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,555 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,276 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,738 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,713 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,097 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,098 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,087 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,054 |
-| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 774 |
+| [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 775 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 549 |
-| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 537 |
+| [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 538 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 449 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 421 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 398 |
@@ -35,7 +35,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 352 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 338 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 336 |
-| [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
+| [Level/awesome](https://github.com/Level/awesome) | Level | 316 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
 | [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 267 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 253 |
@@ -324,6 +324,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [dev1l5/awesome-list](https://github.com/dev1l5/awesome-list) | dev1l5 | 0 |
 | [DevriX/Awesome-List](https://github.com/DevriX/Awesome-List) | DevriX | 0 |
 | [DfKiki/awesome-list](https://github.com/DfKiki/awesome-list) | DfKiki | 0 |
+| [DGOR1337/awesome-list](https://github.com/DGOR1337/awesome-list) | DGOR1337 | 0 |
 | [Dheia/awesome-list](https://github.com/Dheia/awesome-list) | Dheia | 0 |
 | [diallo310/awesome-list](https://github.com/diallo310/awesome-list) | diallo310 | 0 |
 | [didier-Alfea/awesome-list](https://github.com/didier-Alfea/awesome-list) | didier-Alfea | 0 |
