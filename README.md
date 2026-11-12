@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 535,612 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,998 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,554 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,281 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 535,902 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,999 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,553 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,282 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,738 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,713 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,754 |
