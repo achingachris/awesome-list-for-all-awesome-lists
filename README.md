@@ -4,9 +4,9 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **789 repositories total**
+- **788 repositories total**
 - **100** named `awesome`
-- **689** named `awesome-list`
+- **688** named `awesome-list`
 - Last updated: **2026-11-16**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
@@ -15,14 +15,14 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 537,706 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 6,999 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 537,995 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,000 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,552 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,289 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,741 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,713 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
-| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,099 |
+| [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,100 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,086 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,052 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 776 |
@@ -37,12 +37,12 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 336 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 316 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
-| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 267 |
+| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 268 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 253 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
 | [planetruby/awesome](https://github.com/planetruby/awesome) | planetruby | 210 |
-| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 201 |
+| [modrinth/awesome](https://github.com/modrinth/awesome) | modrinth | 202 |
 | [GB28181/Awesome](https://github.com/GB28181/Awesome) | GB28181 | 198 |
 | [Wscats/awesome](https://github.com/Wscats/awesome) | Wscats | 191 |
 | [TheHive-Project/awesome](https://github.com/TheHive-Project/awesome) | TheHive-Project | 186 |
@@ -56,7 +56,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 140 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 127 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 124 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 126 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 119 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 105 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 99 |
@@ -241,7 +241,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [atticus-v/awesome-list](https://github.com/atticus-v/awesome-list) | atticus-v | 0 |
 | [av1v3k/awesome-list](https://github.com/av1v3k/awesome-list) | av1v3k | 0 |
 | [avary/awesome-list](https://github.com/avary/awesome-list) | avary | 0 |
-| [AxolDad/Awesome-List](https://github.com/AxolDad/Awesome-List) | AxolDad | 0 |
 | [barryw/awesome-list](https://github.com/barryw/awesome-list) | barryw | 0 |
 | [bassamsdata/awesome-list](https://github.com/bassamsdata/awesome-list) | bassamsdata | 0 |
 | [Baymax-TT/awesome-list](https://github.com/Baymax-TT/awesome-list) | Baymax-TT | 0 |
