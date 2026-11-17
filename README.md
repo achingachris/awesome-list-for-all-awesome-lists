@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **788 repositories total**
 - **100** named `awesome`
 - **688** named `awesome-list`
-- Last updated: **2026-11-16**
+- Last updated: **2026-11-17**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,9 +15,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 537,995 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 538,255 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,000 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,552 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,553 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,289 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,741 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,713 |
@@ -60,7 +60,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 119 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 105 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 99 |
-| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 98 |
+| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 99 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 96 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 94 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 92 |
