@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **788 repositories total**
 - **100** named `awesome`
 - **688** named `awesome-list`
-- Last updated: **2026-11-18**
+- Last updated: **2026-11-19**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 539,003 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 539,260 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,001 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,554 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,290 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,743 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,744 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,713 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,100 |
@@ -34,10 +34,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 375 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 352 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 338 |
-| [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 336 |
+| [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 337 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 316 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
-| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 268 |
+| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 269 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 253 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
@@ -54,7 +54,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 140 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 137 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 138 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 127 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 119 |
@@ -124,8 +124,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [okp4/awesome](https://github.com/okp4/awesome) _(archived)_ | okp4 | 15 |
 | [influxdata/awesome](https://github.com/influxdata/awesome) | influxdata | 14 |
 | [mgkid3310/AWESome](https://github.com/mgkid3310/AWESome) | mgkid3310 | 14 |
+| [mr-ruhid/awesome-list](https://github.com/mr-ruhid/awesome-list) | mr-ruhid | 13 |
 | [bikramtuladhar/awesome-list](https://github.com/bikramtuladhar/awesome-list) | bikramtuladhar | 12 |
-| [mr-ruhid/awesome-list](https://github.com/mr-ruhid/awesome-list) | mr-ruhid | 12 |
 | [xingshaocheng/awesome-list](https://github.com/xingshaocheng/awesome-list) | xingshaocheng | 12 |
 | [JingwenTian/awesome-list](https://github.com/JingwenTian/awesome-list) | JingwenTian | 9 |
 | [loveshell/awesome-list](https://github.com/loveshell/awesome-list) | loveshell | 9 |
