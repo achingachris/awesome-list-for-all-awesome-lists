@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **788 repositories total**
 - **100** named `awesome`
 - **688** named `awesome-list`
-- Last updated: **2026-11-19**
+- Last updated: **2026-11-20**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 539,510 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,001 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,554 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,289 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 539,754 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,002 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,555 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,290 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,744 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,713 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
@@ -59,8 +59,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 127 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 119 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 105 |
+| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 100 |
 | [proudcloud/awesome](https://github.com/proudcloud/awesome) | proudcloud | 99 |
-| [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 99 |
 | [tendermint/awesome](https://github.com/tendermint/awesome) | tendermint | 96 |
 | [bangumi-data/awesome](https://github.com/bangumi-data/awesome) | bangumi-data | 94 |
 | [webusb/awesome](https://github.com/webusb/awesome) | webusb | 92 |
@@ -70,7 +70,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [HyperDbg/awesome](https://github.com/HyperDbg/awesome) | HyperDbg | 84 |
 | [seapy/awesome](https://github.com/seapy/awesome) | seapy | 84 |
 | [eiroca/awesome-list](https://github.com/eiroca/awesome-list) | eiroca | 83 |
-| [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 82 |
+| [tribixbite/awesome](https://github.com/tribixbite/awesome) | tribixbite | 83 |
 | [open-data-science/awesome](https://github.com/open-data-science/awesome) | open-data-science | 81 |
 | [beerandcodeteam/awesome-list](https://github.com/beerandcodeteam/awesome-list) | beerandcodeteam | 80 |
 | [tomatophp/awesome](https://github.com/tomatophp/awesome) | tomatophp | 79 |
