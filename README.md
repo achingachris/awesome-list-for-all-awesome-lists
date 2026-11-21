@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **788 repositories total**
 - **100** named `awesome`
 - **688** named `awesome-list`
-- Last updated: **2026-11-20**
+- Last updated: **2026-11-21**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 539,996 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 540,239 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,002 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,555 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,290 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,292 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,743 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,713 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
@@ -505,7 +505,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [lmasiero/awesome-list](https://github.com/lmasiero/awesome-list) | lmasiero | 0 |
 | [locopine/awesome-list](https://github.com/locopine/awesome-list) | locopine | 0 |
 | [lola530/awesome-list](https://github.com/lola530/awesome-list) | lola530 | 0 |
-| [Longhaier/awesome-list](https://github.com/Longhaier/awesome-list) | Longhaier | 0 |
 | [longneckfox/awesome-list](https://github.com/longneckfox/awesome-list) | longneckfox | 0 |
 | [lorem-moon/awesome-list](https://github.com/lorem-moon/awesome-list) | lorem-moon | 0 |
 | [loveunique/awesome-list](https://github.com/loveunique/awesome-list) | loveunique | 0 |
@@ -714,6 +713,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Tang0822/awesome-list](https://github.com/Tang0822/awesome-list) | Tang0822 | 0 |
 | [tanjin861117/awesome-list](https://github.com/tanjin861117/awesome-list) | tanjin861117 | 0 |
 | [Tank23x0/awesome-list](https://github.com/Tank23x0/awesome-list) | Tank23x0 | 0 |
+| [TaoBuilds/awesome-list](https://github.com/TaoBuilds/awesome-list) | TaoBuilds | 0 |
 | [tapate/awesome-list](https://github.com/tapate/awesome-list) | tapate | 0 |
 | [Tech-Save/awesome-list](https://github.com/Tech-Save/awesome-list) | Tech-Save | 0 |
 | [techcaleb/awesome-list](https://github.com/techcaleb/awesome-list) | techcaleb | 0 |

@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 539996,
+    "stars": 540239,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4290,
+    "stars": 4292,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -5390,17 +5390,6 @@
     "clone_url": "https://github.com/lola530/awesome-list.git"
   },
   {
-    "repository_full_name": "Longhaier/awesome-list",
-    "name": "awesome-list",
-    "owner": "Longhaier",
-    "url": "https://github.com/Longhaier/awesome-list",
-    "stars": 0,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/Longhaier/awesome-list.git"
-  },
-  {
     "repository_full_name": "longneckfox/awesome-list",
     "name": "awesome-list",
     "owner": "longneckfox",
@@ -7687,6 +7676,17 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/Tank23x0/awesome-list.git"
+  },
+  {
+    "repository_full_name": "TaoBuilds/awesome-list",
+    "name": "awesome-list",
+    "owner": "TaoBuilds",
+    "url": "https://github.com/TaoBuilds/awesome-list",
+    "stars": 0,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/TaoBuilds/awesome-list.git"
   },
   {
     "repository_full_name": "tapate/awesome-list",
