@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 542,044 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 542,328 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,002 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,556 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,300 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,742 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,302 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,741 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,712 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,099 |
@@ -31,7 +31,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 451 |
 | [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 420 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 399 |
-| [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 375 |
+| [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 353 |
 | [component-driven/awesome-list](https://github.com/component-driven/awesome-list) | component-driven | 338 |
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 337 |
@@ -53,7 +53,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 169 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 140 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 141 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 140 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 127 |
@@ -184,6 +184,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [sudoki2015/awesome-list](https://github.com/sudoki2015/awesome-list) | sudoki2015 | 1 |
 | [Techgraph-777/awesome-list](https://github.com/Techgraph-777/awesome-list) | Techgraph-777 | 1 |
 | [tehruhn/awesome-list](https://github.com/tehruhn/awesome-list) | tehruhn | 1 |
+| [thirstyeggplant/awesome-list](https://github.com/thirstyeggplant/awesome-list) | thirstyeggplant | 1 |
 | [V33RU/awesome-list](https://github.com/V33RU/awesome-list) | V33RU | 1 |
 | [xtiankisutsa/awesome-list](https://github.com/xtiankisutsa/awesome-list) | xtiankisutsa | 1 |
 | [yeshuibo/awesome-list](https://github.com/yeshuibo/awesome-list) | yeshuibo | 1 |
@@ -723,7 +724,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [theHacker-tech/awesome-list](https://github.com/theHacker-tech/awesome-list) | theHacker-tech | 0 |
 | [TheSawkit/Awesome-List](https://github.com/TheSawkit/Awesome-List) | TheSawkit | 0 |
 | [ThExtractor/awesome-list](https://github.com/ThExtractor/awesome-list) | ThExtractor | 0 |
-| [thirstyeggplant/awesome-list](https://github.com/thirstyeggplant/awesome-list) | thirstyeggplant | 0 |
 | [thomasdarimont/awesome-list](https://github.com/thomasdarimont/awesome-list) | thomasdarimont | 0 |
 | [TiagoLemosNeitzke/awesome-list](https://github.com/TiagoLemosNeitzke/awesome-list) | TiagoLemosNeitzke | 0 |
 | [tianhengxu/awesome-list](https://github.com/tianhengxu/awesome-list) | tianhengxu | 0 |
