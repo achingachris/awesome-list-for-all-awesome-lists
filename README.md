@@ -4,9 +4,9 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **789 repositories total**
+- **788 repositories total**
 - **100** named `awesome`
-- **689** named `awesome-list`
+- **688** named `awesome-list`
 - Last updated: **2026-11-24**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
@@ -15,13 +15,13 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 541,714 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,001 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,557 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,299 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,743 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 542,044 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,002 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,556 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,300 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,742 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,712 |
-| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
+| [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,099 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,086 |
 | [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,053 |
@@ -721,7 +721,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [testitok/awesome-list](https://github.com/testitok/awesome-list) | testitok | 0 |
 | [The-Gift/awesome-list](https://github.com/The-Gift/awesome-list) | The-Gift | 0 |
 | [theHacker-tech/awesome-list](https://github.com/theHacker-tech/awesome-list) | theHacker-tech | 0 |
-| [theoDep/Awesome-List](https://github.com/theoDep/Awesome-List) | theoDep | 0 |
 | [TheSawkit/Awesome-List](https://github.com/TheSawkit/Awesome-List) | TheSawkit | 0 |
 | [ThExtractor/awesome-list](https://github.com/ThExtractor/awesome-list) | ThExtractor | 0 |
 | [thirstyeggplant/awesome-list](https://github.com/thirstyeggplant/awesome-list) | thirstyeggplant | 0 |
