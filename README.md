@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **789 repositories total**
 - **100** named `awesome`
 - **689** named `awesome-list`
-- Last updated: **2026-11-23**
+- Last updated: **2026-11-24**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,8 +15,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 541,398 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,002 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 541,714 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,001 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,557 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,299 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,743 |
@@ -24,7 +24,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,753 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,099 |
 | [Rocketseat/awesome](https://github.com/Rocketseat/awesome) | Rocketseat | 1,086 |
-| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,054 |
+| [YOURLS/awesome](https://github.com/YOURLS/awesome) | YOURLS | 1,053 |
 | [shenwei356/awesome](https://github.com/shenwei356/awesome) | shenwei356 | 775 |
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 547 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 538 |
@@ -37,7 +37,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 337 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
-| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 269 |
+| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 268 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 253 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
@@ -53,8 +53,8 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 169 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 140 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 140 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 139 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 127 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 119 |
@@ -81,9 +81,9 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [lisniuse/awesome](https://github.com/lisniuse/awesome) | lisniuse | 56 |
 | [bnb-chain/awesome](https://github.com/bnb-chain/awesome) | bnb-chain | 54 |
 | [caido-community/awesome](https://github.com/caido-community/awesome) | caido-community | 50 |
-| [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 49 |
 | [nodgear/Awesome](https://github.com/nodgear/Awesome) | nodgear | 49 |
 | [ItIsMeCall911/Awesome](https://github.com/ItIsMeCall911/Awesome) | ItIsMeCall911 | 48 |
+| [LuNiZz/awesome](https://github.com/LuNiZz/awesome) | LuNiZz | 48 |
 | [evmos/awesome](https://github.com/evmos/awesome) _(archived)_ | evmos | 47 |
 | [FightingDesign/awesome](https://github.com/FightingDesign/awesome) | FightingDesign | 46 |
 | [osmosis-labs/awesome](https://github.com/osmosis-labs/awesome) _(archived)_ | osmosis-labs | 45 |

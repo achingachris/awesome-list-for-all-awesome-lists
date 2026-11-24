@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 541398,
+    "stars": 541714,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -15,7 +15,7 @@
     "name": "awesome",
     "owner": "awesomeWM",
     "url": "https://github.com/awesomeWM/awesome",
-    "stars": 7002,
+    "stars": 7001,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -103,7 +103,7 @@
     "name": "awesome",
     "owner": "YOURLS",
     "url": "https://github.com/YOURLS/awesome",
-    "stars": 1054,
+    "stars": 1053,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -246,7 +246,7 @@
     "name": "awesome",
     "owner": "firasuke",
     "url": "https://github.com/firasuke/awesome",
-    "stars": 269,
+    "stars": 268,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -418,6 +418,17 @@
     "clone_url": "https://github.com/lencx/awesome.git"
   },
   {
+    "repository_full_name": "ecosyste-ms/awesome",
+    "name": "awesome",
+    "owner": "ecosyste-ms",
+    "url": "https://github.com/ecosyste-ms/awesome",
+    "stars": 140,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/ecosyste-ms/awesome.git"
+  },
+  {
     "repository_full_name": "osvaldokalvaitir/awesome",
     "name": "awesome",
     "owner": "osvaldokalvaitir",
@@ -427,17 +438,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/osvaldokalvaitir/awesome.git"
-  },
-  {
-    "repository_full_name": "ecosyste-ms/awesome",
-    "name": "awesome",
-    "owner": "ecosyste-ms",
-    "url": "https://github.com/ecosyste-ms/awesome",
-    "stars": 139,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/ecosyste-ms/awesome.git"
   },
   {
     "repository_full_name": "Milkdown/awesome",
@@ -726,17 +726,6 @@
     "clone_url": "https://github.com/caido-community/awesome.git"
   },
   {
-    "repository_full_name": "LuNiZz/awesome",
-    "name": "awesome",
-    "owner": "LuNiZz",
-    "url": "https://github.com/LuNiZz/awesome",
-    "stars": 49,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "master",
-    "clone_url": "https://github.com/LuNiZz/awesome.git"
-  },
-  {
     "repository_full_name": "nodgear/Awesome",
     "name": "Awesome",
     "owner": "nodgear",
@@ -757,6 +746,17 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/ItIsMeCall911/Awesome.git"
+  },
+  {
+    "repository_full_name": "LuNiZz/awesome",
+    "name": "awesome",
+    "owner": "LuNiZz",
+    "url": "https://github.com/LuNiZz/awesome",
+    "stars": 48,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "master",
+    "clone_url": "https://github.com/LuNiZz/awesome.git"
   },
   {
     "repository_full_name": "evmos/awesome",
