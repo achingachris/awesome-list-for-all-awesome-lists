@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 542,593 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,002 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 542,816 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,004 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,556 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,303 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,304 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,741 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,712 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
@@ -37,7 +37,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [mdx-js/awesome](https://github.com/mdx-js/awesome) | mdx-js | 337 |
 | [Level/awesome](https://github.com/Level/awesome) | Level | 315 |
 | [ziyi2/awesome](https://github.com/ziyi2/awesome) | ziyi2 | 288 |
-| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 268 |
+| [firasuke/awesome](https://github.com/firasuke/awesome) | firasuke | 267 |
 | [ScoopInstaller/Awesome](https://github.com/ScoopInstaller/Awesome) | ScoopInstaller | 253 |
 | [itenfay/Awesome](https://github.com/itenfay/Awesome) | itenfay | 251 |
 | [wangzzu/awesome](https://github.com/wangzzu/awesome) | wangzzu | 226 |
