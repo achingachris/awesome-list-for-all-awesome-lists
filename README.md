@@ -4,10 +4,10 @@ An automatically updated directory of GitHub repositories whose names are exactl
 
 ## Summary
 
-- **788 repositories total**
+- **787 repositories total**
 - **100** named `awesome`
-- **688** named `awesome-list`
-- Last updated: **2026-11-25**
+- **687** named `awesome-list`
+- Last updated: **2026-11-26**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,10 +15,10 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 542,816 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 543,104 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,004 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,556 |
-| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,304 |
+| [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,305 |
 | [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,741 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,712 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
@@ -29,7 +29,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [craftcms/awesome](https://github.com/craftcms/awesome) | craftcms | 547 |
 | [ityouknow/awesome-list](https://github.com/ityouknow/awesome-list) | ityouknow | 538 |
 | [trendmicro-frontend/awesome](https://github.com/trendmicro-frontend/awesome) | trendmicro-frontend | 451 |
-| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 420 |
+| [feature-sliced/awesome](https://github.com/feature-sliced/awesome) | feature-sliced | 421 |
 | [better-auth/awesome](https://github.com/better-auth/awesome) | better-auth | 399 |
 | [TommyZihao/Awesome](https://github.com/TommyZihao/Awesome) | TommyZihao | 374 |
 | [icopy-site/awesome](https://github.com/icopy-site/awesome) | icopy-site | 353 |
@@ -152,6 +152,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [itkpi/awesome-list](https://github.com/itkpi/awesome-list) | itkpi | 2 |
 | [OffensiveBrute/awesome-list](https://github.com/OffensiveBrute/awesome-list) | OffensiveBrute | 2 |
 | [SAAITAAMAA/awesome-list](https://github.com/SAAITAAMAA/awesome-list) | SAAITAAMAA | 2 |
+| [thirstyeggplant/awesome-list](https://github.com/thirstyeggplant/awesome-list) | thirstyeggplant | 2 |
 | [TIDES-transit/awesome-list](https://github.com/TIDES-transit/awesome-list) | TIDES-transit | 2 |
 | [vim-sc/awesome-list](https://github.com/vim-sc/awesome-list) | vim-sc | 2 |
 | [0xroot-bf/awesome-list](https://github.com/0xroot-bf/awesome-list) | 0xroot-bf | 1 |
@@ -184,7 +185,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [sudoki2015/awesome-list](https://github.com/sudoki2015/awesome-list) | sudoki2015 | 1 |
 | [Techgraph-777/awesome-list](https://github.com/Techgraph-777/awesome-list) | Techgraph-777 | 1 |
 | [tehruhn/awesome-list](https://github.com/tehruhn/awesome-list) | tehruhn | 1 |
-| [thirstyeggplant/awesome-list](https://github.com/thirstyeggplant/awesome-list) | thirstyeggplant | 1 |
 | [V33RU/awesome-list](https://github.com/V33RU/awesome-list) | V33RU | 1 |
 | [xtiankisutsa/awesome-list](https://github.com/xtiankisutsa/awesome-list) | xtiankisutsa | 1 |
 | [yeshuibo/awesome-list](https://github.com/yeshuibo/awesome-list) | yeshuibo | 1 |
@@ -743,7 +743,6 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [trinity999/awesome-list](https://github.com/trinity999/awesome-list) | trinity999 | 0 |
 | [tuangh/awesome-list](https://github.com/tuangh/awesome-list) | tuangh | 0 |
 | [Tubbz-alt/awesome-list](https://github.com/Tubbz-alt/awesome-list) | Tubbz-alt | 0 |
-| [Uhan30/Awesome-list](https://github.com/Uhan30/Awesome-list) | Uhan30 | 0 |
 | [unoiadeveloper/awesome-list](https://github.com/unoiadeveloper/awesome-list) | unoiadeveloper | 0 |
 | [UzUm4K01/awesome-list](https://github.com/UzUm4K01/awesome-list) | UzUm4K01 | 0 |
 | [v2hack/awesome-list](https://github.com/v2hack/awesome-list) | v2hack | 0 |

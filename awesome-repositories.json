@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 542816,
+    "stars": 543104,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -37,7 +37,7 @@
     "name": "awesome-list",
     "owner": "0xor0ne",
     "url": "https://github.com/0xor0ne/awesome-list",
-    "stars": 4304,
+    "stars": 4305,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -158,7 +158,7 @@
     "name": "awesome",
     "owner": "feature-sliced",
     "url": "https://github.com/feature-sliced/awesome",
-    "stars": 420,
+    "stars": 421,
     "visibility": "public",
     "archived": false,
     "default_branch": "master",
@@ -1507,6 +1507,17 @@
     "clone_url": "https://github.com/SAAITAAMAA/awesome-list.git"
   },
   {
+    "repository_full_name": "thirstyeggplant/awesome-list",
+    "name": "awesome-list",
+    "owner": "thirstyeggplant",
+    "url": "https://github.com/thirstyeggplant/awesome-list",
+    "stars": 2,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/thirstyeggplant/awesome-list.git"
+  },
+  {
     "repository_full_name": "TIDES-transit/awesome-list",
     "name": "awesome-list",
     "owner": "TIDES-transit",
@@ -1857,17 +1868,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/tehruhn/awesome-list.git"
-  },
-  {
-    "repository_full_name": "thirstyeggplant/awesome-list",
-    "name": "awesome-list",
-    "owner": "thirstyeggplant",
-    "url": "https://github.com/thirstyeggplant/awesome-list",
-    "stars": 1,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/thirstyeggplant/awesome-list.git"
   },
   {
     "repository_full_name": "V33RU/awesome-list",
@@ -8006,17 +8006,6 @@
     "archived": false,
     "default_branch": "master",
     "clone_url": "https://github.com/Tubbz-alt/awesome-list.git"
-  },
-  {
-    "repository_full_name": "Uhan30/Awesome-list",
-    "name": "Awesome-list",
-    "owner": "Uhan30",
-    "url": "https://github.com/Uhan30/Awesome-list",
-    "stars": 0,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/Uhan30/Awesome-list.git"
   },
   {
     "repository_full_name": "unoiadeveloper/awesome-list",
