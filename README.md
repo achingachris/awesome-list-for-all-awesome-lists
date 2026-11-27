@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **787 repositories total**
 - **100** named `awesome`
 - **687** named `awesome-list`
-- Last updated: **2026-11-26**
+- Last updated: **2026-11-27**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,11 +15,11 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 543,421 |
-| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,004 |
-| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,556 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 543,697 |
+| [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,005 |
+| [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,555 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,305 |
-| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,742 |
+| [chartjs/awesome](https://github.com/chartjs/awesome) | chartjs | 2,741 |
 | [rollup/awesome](https://github.com/rollup/awesome) | rollup | 2,712 |
 | [vuetifyjs/awesome](https://github.com/vuetifyjs/awesome) | vuetifyjs | 1,752 |
 | [alpine-collective/awesome](https://github.com/alpine-collective/awesome) | alpine-collective | 1,099 |
@@ -53,7 +53,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [statamic/awesome](https://github.com/statamic/awesome) _(archived)_ | statamic | 169 |
 | [jtoy/awesome](https://github.com/jtoy/awesome) | jtoy | 150 |
 | [lencx/awesome](https://github.com/lencx/awesome) | lencx | 145 |
-| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 141 |
+| [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 143 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 140 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
 | [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 127 |
