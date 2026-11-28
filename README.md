@@ -7,7 +7,7 @@ An automatically updated directory of GitHub repositories whose names are exactl
 - **787 repositories total**
 - **100** named `awesome`
 - **687** named `awesome-list`
-- Last updated: **2026-11-27**
+- Last updated: **2026-11-28**
 
 The machine-readable dataset is available in [`awesome-repositories.json`](./awesome-repositories.json).
 
@@ -15,7 +15,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 
 | Repository | Owner | Stars |
 | --- | --- | ---: |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 543,949 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | sindresorhus | 544,163 |
 | [awesomeWM/awesome](https://github.com/awesomeWM/awesome) | awesomeWM | 7,005 |
 | [nuxt/awesome](https://github.com/nuxt/awesome) | nuxt | 5,555 |
 | [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) | 0xor0ne | 4,306 |
@@ -56,7 +56,7 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [ecosyste-ms/awesome](https://github.com/ecosyste-ms/awesome) | ecosyste-ms | 143 |
 | [osvaldokalvaitir/awesome](https://github.com/osvaldokalvaitir/awesome) | osvaldokalvaitir | 140 |
 | [Milkdown/awesome](https://github.com/Milkdown/awesome) | Milkdown | 133 |
-| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 127 |
+| [fal-ai/awesome](https://github.com/fal-ai/awesome) | fal-ai | 128 |
 | [setkeh/Awesome](https://github.com/setkeh/Awesome) | setkeh | 119 |
 | [LiveUI/Awesome](https://github.com/LiveUI/Awesome) | LiveUI | 105 |
 | [skyrocknroll/awesome](https://github.com/skyrocknroll/awesome) | skyrocknroll | 103 |
@@ -146,13 +146,13 @@ The machine-readable dataset is available in [`awesome-repositories.json`](./awe
 | [Chr15t0pher/awesome-list](https://github.com/Chr15t0pher/awesome-list) | Chr15t0pher | 3 |
 | [netveil/Awesome-List](https://github.com/netveil/Awesome-List) | netveil | 3 |
 | [plain-JavaScript/awesome-list](https://github.com/plain-JavaScript/awesome-list) | plain-JavaScript | 3 |
+| [thirstyeggplant/awesome-list](https://github.com/thirstyeggplant/awesome-list) | thirstyeggplant | 3 |
 | [chalettu/awesome-list](https://github.com/chalettu/awesome-list) | chalettu | 2 |
 | [erikgregorywebb/awesome-list](https://github.com/erikgregorywebb/awesome-list) | erikgregorywebb | 2 |
 | [gpproton/awesome-list](https://github.com/gpproton/awesome-list) | gpproton | 2 |
 | [itkpi/awesome-list](https://github.com/itkpi/awesome-list) | itkpi | 2 |
 | [OffensiveBrute/awesome-list](https://github.com/OffensiveBrute/awesome-list) | OffensiveBrute | 2 |
 | [SAAITAAMAA/awesome-list](https://github.com/SAAITAAMAA/awesome-list) | SAAITAAMAA | 2 |
-| [thirstyeggplant/awesome-list](https://github.com/thirstyeggplant/awesome-list) | thirstyeggplant | 2 |
 | [TIDES-transit/awesome-list](https://github.com/TIDES-transit/awesome-list) | TIDES-transit | 2 |
 | [vim-sc/awesome-list](https://github.com/vim-sc/awesome-list) | vim-sc | 2 |
 | [0xroot-bf/awesome-list](https://github.com/0xroot-bf/awesome-list) | 0xroot-bf | 1 |

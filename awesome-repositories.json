@@ -4,7 +4,7 @@
     "name": "awesome",
     "owner": "sindresorhus",
     "url": "https://github.com/sindresorhus/awesome",
-    "stars": 543949,
+    "stars": 544163,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -455,7 +455,7 @@
     "name": "awesome",
     "owner": "fal-ai",
     "url": "https://github.com/fal-ai/awesome",
-    "stars": 127,
+    "stars": 128,
     "visibility": "public",
     "archived": false,
     "default_branch": "main",
@@ -1441,6 +1441,17 @@
     "clone_url": "https://github.com/plain-JavaScript/awesome-list.git"
   },
   {
+    "repository_full_name": "thirstyeggplant/awesome-list",
+    "name": "awesome-list",
+    "owner": "thirstyeggplant",
+    "url": "https://github.com/thirstyeggplant/awesome-list",
+    "stars": 3,
+    "visibility": "public",
+    "archived": false,
+    "default_branch": "main",
+    "clone_url": "https://github.com/thirstyeggplant/awesome-list.git"
+  },
+  {
     "repository_full_name": "chalettu/awesome-list",
     "name": "awesome-list",
     "owner": "chalettu",
@@ -1505,17 +1516,6 @@
     "archived": false,
     "default_branch": "main",
     "clone_url": "https://github.com/SAAITAAMAA/awesome-list.git"
-  },
-  {
-    "repository_full_name": "thirstyeggplant/awesome-list",
-    "name": "awesome-list",
-    "owner": "thirstyeggplant",
-    "url": "https://github.com/thirstyeggplant/awesome-list",
-    "stars": 2,
-    "visibility": "public",
-    "archived": false,
-    "default_branch": "main",
-    "clone_url": "https://github.com/thirstyeggplant/awesome-list.git"
   },
   {
     "repository_full_name": "TIDES-transit/awesome-list",
